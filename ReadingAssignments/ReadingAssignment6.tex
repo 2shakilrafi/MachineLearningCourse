@@ -3,13 +3,18 @@
 \usepackage{listings}
 \usepackage{amsmath}
 \usepackage{amssymb}
-\title{Project Report on collision modeling of UAVs on commerial airplanes.}
-\author{Shakil Rafi}
-\date{March 2022}
 
 \begin{document}
 \begin{enumerate}
     \item While a Hilbert space is a real or complex vector equipped with a norm induced from an inner product under which it is a complete metric space, a reproducing Hilbert space is one in which the evaluation operator $L_x: f \rightarrow f(x)$ is a bounded operator. I honestly can't think of a counterexample, i.e. a Hilbert space that is not reproducing.
-    \item 
+    \item \textit{Shattering} is an amazing description. Given the intersection of a set collection $\mathcal{H}$ and a set $C$, $\mathcal{H}$ shatters $C$ is $\mathcal{H} \cap C$ contains all the subsets of $C$, i.e. $|\mathcal{H} \cap C| = 2^{|C|}$. The Vapnik-Cherenkov dimension is $\mathcal{H}$ is the largest of a set such that it is shattered by $\mathcal{H}$. 
+    \item The inner product of vectors $u$ and $v$ is $\langle u,v \rangle = u^Tv$.
+    \item SVM arises because we might need non-linear decision boundaries and we don't want to deal with an enlarged feature space.
+    \item While the linear SVC can be represented as $f(x) = \beta_0+\Sigma^n_{i=1} \alpha_i\langle x,x_i \rangle$, using kernels we aim to represent different SVMs as $f(x) = \beta_0 + \Sigma_{i\in \mathcal{S}} \alpha_i K(x,x_i)$ where the different kernels $K(x,x_i)$ are as follows.
+    \item An SVC is an SVM which uses the linear kernel, $K(x_i,x'_i) = \Sigma^p_{j=1}x_{ij}x_{i'j}$
+    \item A polynomial kernel of degree $d$ is one where the kernel has the form $K(x_i,x_{i'}) = (1+\Sigma^p_{j=1} x_{ij}x_{i'j})^d$.
+    \item A radial kernel has the form $K(x_i,x_{i'}) = \exp(-\gamma \Sigma^p_{j=1}(x_{ij}-x_{i'j})^2)$. 
+    \item Kernels are necessary because they simplify calculations, instead of calculating using an enlarged feature space.
+    \item  SVM's can be generalized to have more than two classes.
 \end{enumerate}
 \end{document}
