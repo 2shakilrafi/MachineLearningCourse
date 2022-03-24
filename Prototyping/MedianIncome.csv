@@ -1,1323 +1,1319 @@
-GEO_ID,NAME,S1903_C03_015E
-id,Geographic Area Name,Estimate!!Median income (dollars)!!FAMILIES!!Families
-1400000US17031010100,"Census Tract 101, Cook County, Illinois",63138
-1400000US17031010201,"Census Tract 102.01, Cook County, Illinois",41125
-1400000US17031010202,"Census Tract 102.02, Cook County, Illinois",45236
-1400000US17031010300,"Census Tract 103, Cook County, Illinois",72917
-1400000US17031010400,"Census Tract 104, Cook County, Illinois",58438
-1400000US17031010501,"Census Tract 105.01, Cook County, Illinois",52747
-1400000US17031010502,"Census Tract 105.02, Cook County, Illinois",47222
-1400000US17031010503,"Census Tract 105.03, Cook County, Illinois",46964
-1400000US17031010600,"Census Tract 106, Cook County, Illinois",76838
-1400000US17031010701,"Census Tract 107.01, Cook County, Illinois",74038
-1400000US17031010702,"Census Tract 107.02, Cook County, Illinois",48989
-1400000US17031020100,"Census Tract 201, Cook County, Illinois",61300
-1400000US17031020200,"Census Tract 202, Cook County, Illinois",91402
-1400000US17031020301,"Census Tract 203.01, Cook County, Illinois",74338
-1400000US17031020302,"Census Tract 203.02, Cook County, Illinois",109202
-1400000US17031020400,"Census Tract 204, Cook County, Illinois",79773
-1400000US17031020500,"Census Tract 205, Cook County, Illinois",50927
-1400000US17031020601,"Census Tract 206.01, Cook County, Illinois",40352
-1400000US17031020602,"Census Tract 206.02, Cook County, Illinois",53152
-1400000US17031020701,"Census Tract 207.01, Cook County, Illinois",106691
-1400000US17031020702,"Census Tract 207.02, Cook County, Illinois",50466
-1400000US17031020801,"Census Tract 208.01, Cook County, Illinois",62757
-1400000US17031020802,"Census Tract 208.02, Cook County, Illinois",44697
-1400000US17031020901,"Census Tract 209.01, Cook County, Illinois",47644
-1400000US17031020902,"Census Tract 209.02, Cook County, Illinois",39728
-1400000US17031030101,"Census Tract 301.01, Cook County, Illinois",57627
-1400000US17031030102,"Census Tract 301.02, Cook County, Illinois",77500
-1400000US17031030103,"Census Tract 301.03, Cook County, Illinois",98083
-1400000US17031030104,"Census Tract 301.04, Cook County, Illinois",65625
-1400000US17031030200,"Census Tract 302, Cook County, Illinois",114474
-1400000US17031030300,"Census Tract 303, Cook County, Illinois",50750
-1400000US17031030400,"Census Tract 304, Cook County, Illinois",66731
-1400000US17031030500,"Census Tract 305, Cook County, Illinois",111466
-1400000US17031030601,"Census Tract 306.01, Cook County, Illinois",31722
-1400000US17031030603,"Census Tract 306.03, Cook County, Illinois",44022
-1400000US17031030604,"Census Tract 306.04, Cook County, Illinois",73009
-1400000US17031030701,"Census Tract 307.01, Cook County, Illinois",62857
-1400000US17031030702,"Census Tract 307.02, Cook County, Illinois",101250
-1400000US17031030703,"Census Tract 307.03, Cook County, Illinois",74479
-1400000US17031030706,"Census Tract 307.06, Cook County, Illinois",67893
-1400000US17031030800,"Census Tract 308, Cook County, Illinois",141652
-1400000US17031030900,"Census Tract 309, Cook County, Illinois",159800
-1400000US17031031000,"Census Tract 310, Cook County, Illinois",107629
-1400000US17031031100,"Census Tract 311, Cook County, Illinois",106941
-1400000US17031031200,"Census Tract 312, Cook County, Illinois",45547
-1400000US17031031300,"Census Tract 313, Cook County, Illinois",53750
-1400000US17031031400,"Census Tract 314, Cook County, Illinois",119167
-1400000US17031031501,"Census Tract 315.01, Cook County, Illinois",41417
-1400000US17031031502,"Census Tract 315.02, Cook County, Illinois",36473
-1400000US17031031700,"Census Tract 317, Cook County, Illinois",124625
-1400000US17031031800,"Census Tract 318, Cook County, Illinois",138750
-1400000US17031031900,"Census Tract 319, Cook County, Illinois",141600
-1400000US17031032100,"Census Tract 321, Cook County, Illinois",127901
-1400000US17031040100,"Census Tract 401, Cook County, Illinois",138889
-1400000US17031040201,"Census Tract 402.01, Cook County, Illinois",93750
-1400000US17031040202,"Census Tract 402.02, Cook County, Illinois",54868
-1400000US17031040300,"Census Tract 403, Cook County, Illinois",92656
-1400000US17031040401,"Census Tract 404.01, Cook County, Illinois",126845
-1400000US17031040402,"Census Tract 404.02, Cook County, Illinois",137000
-1400000US17031040600,"Census Tract 406, Cook County, Illinois",106375
-1400000US17031040700,"Census Tract 407, Cook County, Illinois",130281
-1400000US17031040800,"Census Tract 408, Cook County, Illinois",109688
-1400000US17031040900,"Census Tract 409, Cook County, Illinois",180278
-1400000US17031050100,"Census Tract 501, Cook County, Illinois",158750
-1400000US17031050200,"Census Tract 502, Cook County, Illinois",159821
-1400000US17031050300,"Census Tract 503, Cook County, Illinois",116806
-1400000US17031050500,"Census Tract 505, Cook County, Illinois",205417
-1400000US17031050600,"Census Tract 506, Cook County, Illinois",216477
-1400000US17031050700,"Census Tract 507, Cook County, Illinois",171429
-1400000US17031050800,"Census Tract 508, Cook County, Illinois",196250
-1400000US17031050900,"Census Tract 509, Cook County, Illinois",137083
-1400000US17031051000,"Census Tract 510, Cook County, Illinois",160577
-1400000US17031051100,"Census Tract 511, Cook County, Illinois",175508
-1400000US17031051200,"Census Tract 512, Cook County, Illinois",182031
-1400000US17031051300,"Census Tract 513, Cook County, Illinois",200179
-1400000US17031051400,"Census Tract 514, Cook County, Illinois",162143
-1400000US17031060100,"Census Tract 601, Cook County, Illinois",138333
-1400000US17031060200,"Census Tract 602, Cook County, Illinois",152946
-1400000US17031060300,"Census Tract 603, Cook County, Illinois",172150
-1400000US17031060400,"Census Tract 604, Cook County, Illinois",197679
-1400000US17031060500,"Census Tract 605, Cook County, Illinois",171750
-1400000US17031060800,"Census Tract 608, Cook County, Illinois",124417
-1400000US17031060900,"Census Tract 609, Cook County, Illinois",88770
-1400000US17031061000,"Census Tract 610, Cook County, Illinois",151875
-1400000US17031061100,"Census Tract 611, Cook County, Illinois",170893
-1400000US17031061200,"Census Tract 612, Cook County, Illinois",215455
-1400000US17031061500,"Census Tract 615, Cook County, Illinois",165729
-1400000US17031061800,"Census Tract 618, Cook County, Illinois",120438
-1400000US17031061901,"Census Tract 619.01, Cook County, Illinois",118313
-1400000US17031061902,"Census Tract 619.02, Cook County, Illinois",125950
-1400000US17031062000,"Census Tract 620, Cook County, Illinois",160133
-1400000US17031062100,"Census Tract 621, Cook County, Illinois",182969
-1400000US17031062200,"Census Tract 622, Cook County, Illinois",173250
-1400000US17031062300,"Census Tract 623, Cook County, Illinois","250,000+"
-1400000US17031062400,"Census Tract 624, Cook County, Illinois",201250
-1400000US17031062500,"Census Tract 625, Cook County, Illinois",201964
-1400000US17031062600,"Census Tract 626, Cook County, Illinois","250,000+"
-1400000US17031062700,"Census Tract 627, Cook County, Illinois",237500
-1400000US17031062800,"Census Tract 628, Cook County, Illinois","250,000+"
-1400000US17031062900,"Census Tract 629, Cook County, Illinois",210089
-1400000US17031063000,"Census Tract 630, Cook County, Illinois",183438
-1400000US17031063100,"Census Tract 631, Cook County, Illinois",165278
-1400000US17031063200,"Census Tract 632, Cook County, Illinois",174402
-1400000US17031063301,"Census Tract 633.01, Cook County, Illinois",131971
-1400000US17031063302,"Census Tract 633.02, Cook County, Illinois",133618
-1400000US17031063303,"Census Tract 633.03, Cook County, Illinois",155179
-1400000US17031063400,"Census Tract 634, Cook County, Illinois",201949
-1400000US17031070101,"Census Tract 701.01, Cook County, Illinois",127076
-1400000US17031070102,"Census Tract 701.02, Cook County, Illinois","250,000+"
-1400000US17031070103,"Census Tract 701.03, Cook County, Illinois",71473
-1400000US17031070200,"Census Tract 702, Cook County, Illinois",163182
-1400000US17031070300,"Census Tract 703, Cook County, Illinois",221023
-1400000US17031070400,"Census Tract 704, Cook County, Illinois","250,000+"
-1400000US17031070500,"Census Tract 705, Cook County, Illinois","250,000+"
-1400000US17031070600,"Census Tract 706, Cook County, Illinois",184196
-1400000US17031070700,"Census Tract 707, Cook County, Illinois",195724
-1400000US17031071000,"Census Tract 710, Cook County, Illinois","250,000+"
-1400000US17031071100,"Census Tract 711, Cook County, Illinois",233947
-1400000US17031071200,"Census Tract 712, Cook County, Illinois",117188
-1400000US17031071300,"Census Tract 713, Cook County, Illinois",205515
-1400000US17031071400,"Census Tract 714, Cook County, Illinois",196053
-1400000US17031071500,"Census Tract 715, Cook County, Illinois",185179
-1400000US17031071600,"Census Tract 716, Cook County, Illinois",201875
-1400000US17031071700,"Census Tract 717, Cook County, Illinois",203438
-1400000US17031071800,"Census Tract 718, Cook County, Illinois",183125
-1400000US17031080100,"Census Tract 801, Cook County, Illinois","250,000+"
-1400000US17031080201,"Census Tract 802.01, Cook County, Illinois",151856
-1400000US17031080202,"Census Tract 802.02, Cook County, Illinois",173220
-1400000US17031080300,"Census Tract 803, Cook County, Illinois",200771
-1400000US17031080400,"Census Tract 804, Cook County, Illinois",38824
-1400000US17031081000,"Census Tract 810, Cook County, Illinois",143750
-1400000US17031081100,"Census Tract 811, Cook County, Illinois",140982
-1400000US17031081201,"Census Tract 812.01, Cook County, Illinois","250,000+"
-1400000US17031081202,"Census Tract 812.02, Cook County, Illinois",215813
-1400000US17031081300,"Census Tract 813, Cook County, Illinois",157708
-1400000US17031081401,"Census Tract 814.01, Cook County, Illinois","250,000+"
-1400000US17031081402,"Census Tract 814.02, Cook County, Illinois",228750
-1400000US17031081403,"Census Tract 814.03, Cook County, Illinois",184697
-1400000US17031081500,"Census Tract 815, Cook County, Illinois",211600
-1400000US17031081600,"Census Tract 816, Cook County, Illinois",180208
-1400000US17031081700,"Census Tract 817, Cook County, Illinois",145526
-1400000US17031081800,"Census Tract 818, Cook County, Illinois",246467
-1400000US17031081900,"Census Tract 819, Cook County, Illinois",153125
-1400000US17031090100,"Census Tract 901, Cook County, Illinois",130250
-1400000US17031090200,"Census Tract 902, Cook County, Illinois",157083
-1400000US17031090300,"Census Tract 903, Cook County, Illinois",133750
-1400000US17031100100,"Census Tract 1001, Cook County, Illinois",100639
-1400000US17031100200,"Census Tract 1002, Cook County, Illinois",111138
-1400000US17031100300,"Census Tract 1003, Cook County, Illinois",116406
-1400000US17031100400,"Census Tract 1004, Cook County, Illinois",113553
-1400000US17031100500,"Census Tract 1005, Cook County, Illinois",113080
-1400000US17031100600,"Census Tract 1006, Cook County, Illinois",87061
-1400000US17031100700,"Census Tract 1007, Cook County, Illinois",101806
-1400000US17031110100,"Census Tract 1101, Cook County, Illinois",100392
-1400000US17031110200,"Census Tract 1102, Cook County, Illinois",107267
-1400000US17031110300,"Census Tract 1103, Cook County, Illinois",93517
-1400000US17031110400,"Census Tract 1104, Cook County, Illinois",72437
-1400000US17031110501,"Census Tract 1105.01, Cook County, Illinois",94836
-1400000US17031110502,"Census Tract 1105.02, Cook County, Illinois",92868
-1400000US17031120100,"Census Tract 1201, Cook County, Illinois",166719
-1400000US17031120200,"Census Tract 1202, Cook County, Illinois",153472
-1400000US17031120300,"Census Tract 1203, Cook County, Illinois",155640
-1400000US17031120400,"Census Tract 1204, Cook County, Illinois",113359
-1400000US17031130100,"Census Tract 1301, Cook County, Illinois",83875
-1400000US17031130200,"Census Tract 1302, Cook County, Illinois",103125
-1400000US17031130300,"Census Tract 1303, Cook County, Illinois",63571
-1400000US17031140100,"Census Tract 1401, Cook County, Illinois",54129
-1400000US17031140200,"Census Tract 1402, Cook County, Illinois",45969
-1400000US17031140301,"Census Tract 1403.01, Cook County, Illinois",56250
-1400000US17031140302,"Census Tract 1403.02, Cook County, Illinois",93141
-1400000US17031140400,"Census Tract 1404, Cook County, Illinois",94344
-1400000US17031140500,"Census Tract 1405, Cook County, Illinois",70875
-1400000US17031140601,"Census Tract 1406.01, Cook County, Illinois",51053
-1400000US17031140602,"Census Tract 1406.02, Cook County, Illinois",61875
-1400000US17031140701,"Census Tract 1407.01, Cook County, Illinois",68000
-1400000US17031140702,"Census Tract 1407.02, Cook County, Illinois",63219
-1400000US17031140800,"Census Tract 1408, Cook County, Illinois",98056
-1400000US17031150200,"Census Tract 1502, Cook County, Illinois",85284
-1400000US17031150300,"Census Tract 1503, Cook County, Illinois",102725
-1400000US17031150401,"Census Tract 1504.01, Cook County, Illinois",80337
-1400000US17031150402,"Census Tract 1504.02, Cook County, Illinois",99345
-1400000US17031150501,"Census Tract 1505.01, Cook County, Illinois",89250
-1400000US17031150502,"Census Tract 1505.02, Cook County, Illinois",76576
-1400000US17031150600,"Census Tract 1506, Cook County, Illinois",84507
-1400000US17031150700,"Census Tract 1507, Cook County, Illinois",85714
-1400000US17031150800,"Census Tract 1508, Cook County, Illinois",68320
-1400000US17031151001,"Census Tract 1510.01, Cook County, Illinois",81042
-1400000US17031151002,"Census Tract 1510.02, Cook County, Illinois",64741
-1400000US17031151100,"Census Tract 1511, Cook County, Illinois",63125
-1400000US17031151200,"Census Tract 1512, Cook County, Illinois",81410
-1400000US17031160100,"Census Tract 1601, Cook County, Illinois",79643
-1400000US17031160200,"Census Tract 1602, Cook County, Illinois",114453
-1400000US17031160300,"Census Tract 1603, Cook County, Illinois",76222
-1400000US17031160400,"Census Tract 1604, Cook County, Illinois",83598
-1400000US17031160501,"Census Tract 1605.01, Cook County, Illinois",59000
-1400000US17031160502,"Census Tract 1605.02, Cook County, Illinois",62607
-1400000US17031160601,"Census Tract 1606.01, Cook County, Illinois",82723
-1400000US17031160602,"Census Tract 1606.02, Cook County, Illinois",69594
-1400000US17031160700,"Census Tract 1607, Cook County, Illinois",84713
-1400000US17031160800,"Census Tract 1608, Cook County, Illinois",62584
-1400000US17031160900,"Census Tract 1609, Cook County, Illinois",107031
-1400000US17031161000,"Census Tract 1610, Cook County, Illinois",136750
-1400000US17031161100,"Census Tract 1611, Cook County, Illinois",150357
-1400000US17031161200,"Census Tract 1612, Cook County, Illinois",69896
-1400000US17031161300,"Census Tract 1613, Cook County, Illinois",57661
-1400000US17031170100,"Census Tract 1701, Cook County, Illinois",86146
-1400000US17031170200,"Census Tract 1702, Cook County, Illinois",73075
-1400000US17031170300,"Census Tract 1703, Cook County, Illinois",93281
-1400000US17031170400,"Census Tract 1704, Cook County, Illinois",78167
-1400000US17031170500,"Census Tract 1705, Cook County, Illinois",103542
-1400000US17031170600,"Census Tract 1706, Cook County, Illinois",84620
-1400000US17031170700,"Census Tract 1707, Cook County, Illinois",74141
-1400000US17031170800,"Census Tract 1708, Cook County, Illinois",68611
-1400000US17031170900,"Census Tract 1709, Cook County, Illinois",79000
-1400000US17031171000,"Census Tract 1710, Cook County, Illinois",95865
-1400000US17031171100,"Census Tract 1711, Cook County, Illinois",99293
-1400000US17031180100,"Census Tract 1801, Cook County, Illinois",76250
-1400000US17031190100,"Census Tract 1901, Cook County, Illinois",56597
-1400000US17031190200,"Census Tract 1902, Cook County, Illinois",66313
-1400000US17031190300,"Census Tract 1903, Cook County, Illinois",72593
-1400000US17031190401,"Census Tract 1904.01, Cook County, Illinois",67000
-1400000US17031190402,"Census Tract 1904.02, Cook County, Illinois",62825
-1400000US17031190601,"Census Tract 1906.01, Cook County, Illinois",53375
-1400000US17031190602,"Census Tract 1906.02, Cook County, Illinois",54179
-1400000US17031190701,"Census Tract 1907.01, Cook County, Illinois",49531
-1400000US17031190702,"Census Tract 1907.02, Cook County, Illinois",45625
-1400000US17031190800,"Census Tract 1908, Cook County, Illinois",59471
-1400000US17031190900,"Census Tract 1909, Cook County, Illinois",66786
-1400000US17031191000,"Census Tract 1910, Cook County, Illinois",60250
-1400000US17031191100,"Census Tract 1911, Cook County, Illinois",51590
-1400000US17031191200,"Census Tract 1912, Cook County, Illinois",46742
-1400000US17031191301,"Census Tract 1913.01, Cook County, Illinois",67604
-1400000US17031191302,"Census Tract 1913.02, Cook County, Illinois",55308
-1400000US17031200100,"Census Tract 2001, Cook County, Illinois",72857
-1400000US17031200200,"Census Tract 2002, Cook County, Illinois",56368
-1400000US17031200300,"Census Tract 2003, Cook County, Illinois",72667
-1400000US17031200401,"Census Tract 2004.01, Cook County, Illinois",46618
-1400000US17031200402,"Census Tract 2004.02, Cook County, Illinois",52188
-1400000US17031210100,"Census Tract 2101, Cook County, Illinois",95682
-1400000US17031210400,"Census Tract 2104, Cook County, Illinois",52639
-1400000US17031210501,"Census Tract 2105.01, Cook County, Illinois",46369
-1400000US17031210502,"Census Tract 2105.02, Cook County, Illinois",63512
-1400000US17031210601,"Census Tract 2106.01, Cook County, Illinois",78229
-1400000US17031210602,"Census Tract 2106.02, Cook County, Illinois",78684
-1400000US17031210700,"Census Tract 2107, Cook County, Illinois",74750
-1400000US17031210800,"Census Tract 2108, Cook County, Illinois",58929
-1400000US17031210900,"Census Tract 2109, Cook County, Illinois",88194
-1400000US17031220300,"Census Tract 2203, Cook County, Illinois",128417
-1400000US17031220400,"Census Tract 2204, Cook County, Illinois",125522
-1400000US17031220500,"Census Tract 2205, Cook County, Illinois",117609
-1400000US17031220601,"Census Tract 2206.01, Cook County, Illinois",98214
-1400000US17031220602,"Census Tract 2206.02, Cook County, Illinois",55833
-1400000US17031220701,"Census Tract 2207.01, Cook County, Illinois",72500
-1400000US17031220702,"Census Tract 2207.02, Cook County, Illinois",66174
-1400000US17031220901,"Census Tract 2209.01, Cook County, Illinois",48477
-1400000US17031220902,"Census Tract 2209.02, Cook County, Illinois",58636
-1400000US17031221000,"Census Tract 2210, Cook County, Illinois",51989
-1400000US17031221100,"Census Tract 2211, Cook County, Illinois",73600
-1400000US17031221200,"Census Tract 2212, Cook County, Illinois",120863
-1400000US17031221300,"Census Tract 2213, Cook County, Illinois",65625
-1400000US17031221400,"Census Tract 2214, Cook County, Illinois",138594
-1400000US17031221500,"Census Tract 2215, Cook County, Illinois",71439
-1400000US17031221600,"Census Tract 2216, Cook County, Illinois",188864
-1400000US17031222200,"Census Tract 2222, Cook County, Illinois",228125
-1400000US17031222500,"Census Tract 2225, Cook County, Illinois",74792
-1400000US17031222600,"Census Tract 2226, Cook County, Illinois",87188
-1400000US17031222700,"Census Tract 2227, Cook County, Illinois",74000
-1400000US17031222800,"Census Tract 2228, Cook County, Illinois",47031
-1400000US17031222900,"Census Tract 2229, Cook County, Illinois",55375
-1400000US17031230100,"Census Tract 2301, Cook County, Illinois",61250
-1400000US17031230200,"Census Tract 2302, Cook County, Illinois",61406
-1400000US17031230300,"Census Tract 2303, Cook County, Illinois",46250
-1400000US17031230400,"Census Tract 2304, Cook County, Illinois",54625
-1400000US17031230500,"Census Tract 2305, Cook County, Illinois",33672
-1400000US17031230600,"Census Tract 2306, Cook County, Illinois",42902
-1400000US17031230700,"Census Tract 2307, Cook County, Illinois",44798
-1400000US17031230800,"Census Tract 2308, Cook County, Illinois",59539
-1400000US17031230900,"Census Tract 2309, Cook County, Illinois",56667
-1400000US17031231100,"Census Tract 2311, Cook County, Illinois",-
-1400000US17031231200,"Census Tract 2312, Cook County, Illinois",36330
-1400000US17031231500,"Census Tract 2315, Cook County, Illinois",41722
-1400000US17031240200,"Census Tract 2402, Cook County, Illinois",199464
-1400000US17031240300,"Census Tract 2403, Cook County, Illinois",167083
-1400000US17031240500,"Census Tract 2405, Cook County, Illinois",209917
-1400000US17031240600,"Census Tract 2406, Cook County, Illinois",138333
-1400000US17031240700,"Census Tract 2407, Cook County, Illinois",96324
-1400000US17031240800,"Census Tract 2408, Cook County, Illinois",64531
-1400000US17031240900,"Census Tract 2409, Cook County, Illinois",43098
-1400000US17031241000,"Census Tract 2410, Cook County, Illinois",62011
-1400000US17031241100,"Census Tract 2411, Cook County, Illinois",66667
-1400000US17031241200,"Census Tract 2412, Cook County, Illinois",163214
-1400000US17031241300,"Census Tract 2413, Cook County, Illinois",183750
-1400000US17031241400,"Census Tract 2414, Cook County, Illinois",189896
-1400000US17031241500,"Census Tract 2415, Cook County, Illinois",176250
-1400000US17031241600,"Census Tract 2416, Cook County, Illinois",119500
-1400000US17031242000,"Census Tract 2420, Cook County, Illinois",131853
-1400000US17031242100,"Census Tract 2421, Cook County, Illinois",156607
-1400000US17031242200,"Census Tract 2422, Cook County, Illinois",158906
-1400000US17031242300,"Census Tract 2423, Cook County, Illinois",128833
-1400000US17031242400,"Census Tract 2424, Cook County, Illinois",151625
-1400000US17031242500,"Census Tract 2425, Cook County, Illinois",89176
-1400000US17031242600,"Census Tract 2426, Cook County, Illinois",60735
-1400000US17031242700,"Census Tract 2427, Cook County, Illinois",51146
-1400000US17031242800,"Census Tract 2428, Cook County, Illinois",103333
-1400000US17031242900,"Census Tract 2429, Cook County, Illinois",135156
-1400000US17031243000,"Census Tract 2430, Cook County, Illinois",103906
-1400000US17031243100,"Census Tract 2431, Cook County, Illinois",145625
-1400000US17031243200,"Census Tract 2432, Cook County, Illinois",173966
-1400000US17031243300,"Census Tract 2433, Cook County, Illinois",120078
-1400000US17031243400,"Census Tract 2434, Cook County, Illinois",104750
-1400000US17031243500,"Census Tract 2435, Cook County, Illinois",182543
-1400000US17031250200,"Census Tract 2502, Cook County, Illinois",65329
-1400000US17031250300,"Census Tract 2503, Cook County, Illinois",35278
-1400000US17031250400,"Census Tract 2504, Cook County, Illinois",49647
-1400000US17031250500,"Census Tract 2505, Cook County, Illinois",115074
-1400000US17031250600,"Census Tract 2506, Cook County, Illinois",62188
-1400000US17031250700,"Census Tract 2507, Cook County, Illinois",44929
-1400000US17031250800,"Census Tract 2508, Cook County, Illinois",45492
-1400000US17031251000,"Census Tract 2510, Cook County, Illinois",29276
-1400000US17031251100,"Census Tract 2511, Cook County, Illinois",30805
-1400000US17031251200,"Census Tract 2512, Cook County, Illinois",51419
-1400000US17031251300,"Census Tract 2513, Cook County, Illinois",37067
-1400000US17031251400,"Census Tract 2514, Cook County, Illinois",57952
-1400000US17031251500,"Census Tract 2515, Cook County, Illinois",37679
-1400000US17031251600,"Census Tract 2516, Cook County, Illinois",26781
-1400000US17031251700,"Census Tract 2517, Cook County, Illinois",57898
-1400000US17031251800,"Census Tract 2518, Cook County, Illinois",27091
-1400000US17031251900,"Census Tract 2519, Cook County, Illinois",21463
-1400000US17031252000,"Census Tract 2520, Cook County, Illinois",26222
-1400000US17031252101,"Census Tract 2521.01, Cook County, Illinois",28421
-1400000US17031252102,"Census Tract 2521.02, Cook County, Illinois",49542
-1400000US17031252201,"Census Tract 2522.01, Cook County, Illinois",38984
-1400000US17031252202,"Census Tract 2522.02, Cook County, Illinois",28300
-1400000US17031260100,"Census Tract 2601, Cook County, Illinois",31250
-1400000US17031260200,"Census Tract 2602, Cook County, Illinois",38056
-1400000US17031260300,"Census Tract 2603, Cook County, Illinois",37784
-1400000US17031260400,"Census Tract 2604, Cook County, Illinois",-
-1400000US17031260500,"Census Tract 2605, Cook County, Illinois",32109
-1400000US17031260600,"Census Tract 2606, Cook County, Illinois",28315
-1400000US17031260700,"Census Tract 2607, Cook County, Illinois",28875
-1400000US17031260800,"Census Tract 2608, Cook County, Illinois",24153
-1400000US17031260900,"Census Tract 2609, Cook County, Illinois",42208
-1400000US17031261000,"Census Tract 2610, Cook County, Illinois",35058
-1400000US17031270500,"Census Tract 2705, Cook County, Illinois",32083
-1400000US17031271200,"Census Tract 2712, Cook County, Illinois",33565
-1400000US17031271300,"Census Tract 2713, Cook County, Illinois",25517
-1400000US17031271400,"Census Tract 2714, Cook County, Illinois",25391
-1400000US17031271500,"Census Tract 2715, Cook County, Illinois",46917
-1400000US17031271800,"Census Tract 2718, Cook County, Illinois",20104
-1400000US17031280100,"Census Tract 2801, Cook County, Illinois",195677
-1400000US17031280400,"Census Tract 2804, Cook County, Illinois",26625
-1400000US17031280800,"Census Tract 2808, Cook County, Illinois",31429
-1400000US17031280900,"Census Tract 2809, Cook County, Illinois",17458
-1400000US17031281900,"Census Tract 2819, Cook County, Illinois",142569
-1400000US17031282700,"Census Tract 2827, Cook County, Illinois",59009
-1400000US17031282800,"Census Tract 2828, Cook County, Illinois",76488
-1400000US17031283100,"Census Tract 2831, Cook County, Illinois",53967
-1400000US17031283200,"Census Tract 2832, Cook County, Illinois",92500
-1400000US17031283800,"Census Tract 2838, Cook County, Illinois",125833
-1400000US17031290900,"Census Tract 2909, Cook County, Illinois",30056
-1400000US17031291200,"Census Tract 2912, Cook County, Illinois",17857
-1400000US17031291600,"Census Tract 2916, Cook County, Illinois",50347
-1400000US17031292200,"Census Tract 2922, Cook County, Illinois",38212
-1400000US17031292400,"Census Tract 2924, Cook County, Illinois",41875
-1400000US17031292500,"Census Tract 2925, Cook County, Illinois",44732
-1400000US17031300500,"Census Tract 3005, Cook County, Illinois",36184
-1400000US17031300600,"Census Tract 3006, Cook County, Illinois",44931
-1400000US17031300700,"Census Tract 3007, Cook County, Illinois",37730
-1400000US17031300800,"Census Tract 3008, Cook County, Illinois",30313
-1400000US17031300900,"Census Tract 3009, Cook County, Illinois",31204
-1400000US17031301100,"Census Tract 3011, Cook County, Illinois",37946
-1400000US17031301200,"Census Tract 3012, Cook County, Illinois",33866
-1400000US17031301600,"Census Tract 3016, Cook County, Illinois",29385
-1400000US17031301701,"Census Tract 3017.01, Cook County, Illinois",39076
-1400000US17031301702,"Census Tract 3017.02, Cook County, Illinois",44706
-1400000US17031301801,"Census Tract 3018.01, Cook County, Illinois",37816
-1400000US17031301802,"Census Tract 3018.02, Cook County, Illinois",35846
-1400000US17031301803,"Census Tract 3018.03, Cook County, Illinois",40844
-1400000US17031310200,"Census Tract 3102, Cook County, Illinois",74236
-1400000US17031310300,"Census Tract 3103, Cook County, Illinois",53500
-1400000US17031310400,"Census Tract 3104, Cook County, Illinois",97083
-1400000US17031310500,"Census Tract 3105, Cook County, Illinois",35365
-1400000US17031310600,"Census Tract 3106, Cook County, Illinois",51597
-1400000US17031310700,"Census Tract 3107, Cook County, Illinois",58371
-1400000US17031310800,"Census Tract 3108, Cook County, Illinois",62861
-1400000US17031310900,"Census Tract 3109, Cook County, Illinois",36996
-1400000US17031320100,"Census Tract 3201, Cook County, Illinois",181226
-1400000US17031320400,"Census Tract 3204, Cook County, Illinois","250,000+"
-1400000US17031320600,"Census Tract 3206, Cook County, Illinois",178881
-1400000US17031330100,"Census Tract 3301, Cook County, Illinois",180539
-1400000US17031330200,"Census Tract 3302, Cook County, Illinois",159583
-1400000US17031340300,"Census Tract 3403, Cook County, Illinois",44779
-1400000US17031340400,"Census Tract 3404, Cook County, Illinois",53173
-1400000US17031340500,"Census Tract 3405, Cook County, Illinois",24395
-1400000US17031340600,"Census Tract 3406, Cook County, Illinois",16114
-1400000US17031350100,"Census Tract 3501, Cook County, Illinois",79125
-1400000US17031350400,"Census Tract 3504, Cook County, Illinois",19444
-1400000US17031351000,"Census Tract 3510, Cook County, Illinois",-
-1400000US17031351100,"Census Tract 3511, Cook County, Illinois",11457
-1400000US17031351400,"Census Tract 3514, Cook County, Illinois",16622
-1400000US17031351500,"Census Tract 3515, Cook County, Illinois",13707
-1400000US17031360200,"Census Tract 3602, Cook County, Illinois",36802
-1400000US17031380100,"Census Tract 3801, Cook County, Illinois",49940
-1400000US17031380200,"Census Tract 3802, Cook County, Illinois",-
-1400000US17031380500,"Census Tract 3805, Cook County, Illinois",22019
-1400000US17031380700,"Census Tract 3807, Cook County, Illinois",45495
-1400000US17031381200,"Census Tract 3812, Cook County, Illinois",87250
-1400000US17031381400,"Census Tract 3814, Cook County, Illinois",26321
-1400000US17031381500,"Census Tract 3815, Cook County, Illinois",-
-1400000US17031381700,"Census Tract 3817, Cook County, Illinois",-
-1400000US17031381800,"Census Tract 3818, Cook County, Illinois",44286
-1400000US17031381900,"Census Tract 3819, Cook County, Illinois",54308
-1400000US17031390100,"Census Tract 3901, Cook County, Illinois",104563
-1400000US17031390200,"Census Tract 3902, Cook County, Illinois",102031
-1400000US17031390300,"Census Tract 3903, Cook County, Illinois",24405
-1400000US17031390400,"Census Tract 3904, Cook County, Illinois",68750
-1400000US17031390500,"Census Tract 3905, Cook County, Illinois",82333
-1400000US17031390600,"Census Tract 3906, Cook County, Illinois",121250
-1400000US17031390700,"Census Tract 3907, Cook County, Illinois",117125
-1400000US17031400300,"Census Tract 4003, Cook County, Illinois",34500
-1400000US17031400400,"Census Tract 4004, Cook County, Illinois",35881
-1400000US17031400500,"Census Tract 4005, Cook County, Illinois",22419
-1400000US17031400800,"Census Tract 4008, Cook County, Illinois",23134
-1400000US17031410100,"Census Tract 4101, Cook County, Illinois",101289
-1400000US17031410200,"Census Tract 4102, Cook County, Illinois",78417
-1400000US17031410500,"Census Tract 4105, Cook County, Illinois",128307
-1400000US17031410600,"Census Tract 4106, Cook County, Illinois",83125
-1400000US17031410700,"Census Tract 4107, Cook County, Illinois",100927
-1400000US17031410800,"Census Tract 4108, Cook County, Illinois",77788
-1400000US17031410900,"Census Tract 4109, Cook County, Illinois",115179
-1400000US17031411000,"Census Tract 4110, Cook County, Illinois",103438
-1400000US17031411100,"Census Tract 4111, Cook County, Illinois",188819
-1400000US17031411200,"Census Tract 4112, Cook County, Illinois",200000
-1400000US17031420100,"Census Tract 4201, Cook County, Illinois",24107
-1400000US17031420200,"Census Tract 4202, Cook County, Illinois",41618
-1400000US17031420300,"Census Tract 4203, Cook County, Illinois",51447
-1400000US17031420400,"Census Tract 4204, Cook County, Illinois",27000
-1400000US17031420500,"Census Tract 4205, Cook County, Illinois",40063
-1400000US17031420600,"Census Tract 4206, Cook County, Illinois",27813
-1400000US17031420700,"Census Tract 4207, Cook County, Illinois",25024
-1400000US17031420800,"Census Tract 4208, Cook County, Illinois",46389
-1400000US17031421200,"Census Tract 4212, Cook County, Illinois",57778
-1400000US17031430101,"Census Tract 4301.01, Cook County, Illinois",31926
-1400000US17031430102,"Census Tract 4301.02, Cook County, Illinois",38629
-1400000US17031430200,"Census Tract 4302, Cook County, Illinois",33085
-1400000US17031430300,"Census Tract 4303, Cook County, Illinois",16935
-1400000US17031430400,"Census Tract 4304, Cook County, Illinois",44386
-1400000US17031430500,"Census Tract 4305, Cook County, Illinois",19532
-1400000US17031430600,"Census Tract 4306, Cook County, Illinois",46806
-1400000US17031430700,"Census Tract 4307, Cook County, Illinois",-
-1400000US17031430800,"Census Tract 4308, Cook County, Illinois",72637
-1400000US17031430900,"Census Tract 4309, Cook County, Illinois",56513
-1400000US17031431200,"Census Tract 4312, Cook County, Illinois",69500
-1400000US17031431301,"Census Tract 4313.01, Cook County, Illinois",38125
-1400000US17031431302,"Census Tract 4313.02, Cook County, Illinois",34141
-1400000US17031431400,"Census Tract 4314, Cook County, Illinois",30774
-1400000US17031440101,"Census Tract 4401.01, Cook County, Illinois",21512
-1400000US17031440102,"Census Tract 4401.02, Cook County, Illinois",41334
-1400000US17031440201,"Census Tract 4402.01, Cook County, Illinois",40269
-1400000US17031440202,"Census Tract 4402.02, Cook County, Illinois",49861
-1400000US17031440300,"Census Tract 4403, Cook County, Illinois",67159
-1400000US17031440600,"Census Tract 4406, Cook County, Illinois",68606
-1400000US17031440700,"Census Tract 4407, Cook County, Illinois",61000
-1400000US17031440800,"Census Tract 4408, Cook County, Illinois",26875
-1400000US17031440900,"Census Tract 4409, Cook County, Illinois",65233
-1400000US17031450300,"Census Tract 4503, Cook County, Illinois",59938
-1400000US17031460100,"Census Tract 4601, Cook County, Illinois",39659
-1400000US17031460200,"Census Tract 4602, Cook County, Illinois",32266
-1400000US17031460301,"Census Tract 4603.01, Cook County, Illinois",38846
-1400000US17031460302,"Census Tract 4603.02, Cook County, Illinois",29980
-1400000US17031460400,"Census Tract 4604, Cook County, Illinois",58704
-1400000US17031460500,"Census Tract 4605, Cook County, Illinois",78553
-1400000US17031460600,"Census Tract 4606, Cook County, Illinois",39837
-1400000US17031460700,"Census Tract 4607, Cook County, Illinois",25625
-1400000US17031461000,"Census Tract 4610, Cook County, Illinois",44732
-1400000US17031470100,"Census Tract 4701, Cook County, Illinois",59732
-1400000US17031480100,"Census Tract 4801, Cook County, Illinois",78281
-1400000US17031480200,"Census Tract 4802, Cook County, Illinois",56250
-1400000US17031480300,"Census Tract 4803, Cook County, Illinois",66071
-1400000US17031480400,"Census Tract 4804, Cook County, Illinois",71438
-1400000US17031480500,"Census Tract 4805, Cook County, Illinois",50313
-1400000US17031490300,"Census Tract 4903, Cook County, Illinois",70000
-1400000US17031490400,"Census Tract 4904, Cook County, Illinois",76111
-1400000US17031490500,"Census Tract 4905, Cook County, Illinois",59922
-1400000US17031490600,"Census Tract 4906, Cook County, Illinois",43073
-1400000US17031490700,"Census Tract 4907, Cook County, Illinois",56250
-1400000US17031490800,"Census Tract 4908, Cook County, Illinois",45385
-1400000US17031490901,"Census Tract 4909.01, Cook County, Illinois",45819
-1400000US17031490902,"Census Tract 4909.02, Cook County, Illinois",56296
-1400000US17031491000,"Census Tract 4910, Cook County, Illinois",58889
-1400000US17031491100,"Census Tract 4911, Cook County, Illinois",63301
-1400000US17031491200,"Census Tract 4912, Cook County, Illinois",55000
-1400000US17031491300,"Census Tract 4913, Cook County, Illinois",35417
-1400000US17031491400,"Census Tract 4914, Cook County, Illinois",35284
-1400000US17031500100,"Census Tract 5001, Cook County, Illinois",67044
-1400000US17031500200,"Census Tract 5002, Cook County, Illinois",35833
-1400000US17031500300,"Census Tract 5003, Cook County, Illinois",45903
-1400000US17031510100,"Census Tract 5101, Cook County, Illinois",43355
-1400000US17031510200,"Census Tract 5102, Cook County, Illinois",52188
-1400000US17031510300,"Census Tract 5103, Cook County, Illinois",30741
-1400000US17031520100,"Census Tract 5201, Cook County, Illinois",53427
-1400000US17031520200,"Census Tract 5202, Cook County, Illinois",35000
-1400000US17031520300,"Census Tract 5203, Cook County, Illinois",51667
-1400000US17031520400,"Census Tract 5204, Cook County, Illinois",54093
-1400000US17031520500,"Census Tract 5205, Cook County, Illinois",65972
-1400000US17031520600,"Census Tract 5206, Cook County, Illinois",57917
-1400000US17031530100,"Census Tract 5301, Cook County, Illinois",48958
-1400000US17031530200,"Census Tract 5302, Cook County, Illinois",51563
-1400000US17031530300,"Census Tract 5303, Cook County, Illinois",52045
-1400000US17031530400,"Census Tract 5304, Cook County, Illinois",70556
-1400000US17031530501,"Census Tract 5305.01, Cook County, Illinois",51086
-1400000US17031530502,"Census Tract 5305.02, Cook County, Illinois",57667
-1400000US17031530503,"Census Tract 5305.03, Cook County, Illinois",55066
-1400000US17031530600,"Census Tract 5306, Cook County, Illinois",42976
-1400000US17031540101,"Census Tract 5401.01, Cook County, Illinois",22452
-1400000US17031540102,"Census Tract 5401.02, Cook County, Illinois",21125
-1400000US17031550100,"Census Tract 5501, Cook County, Illinois",74219
-1400000US17031550200,"Census Tract 5502, Cook County, Illinois",79464
-1400000US17031560100,"Census Tract 5601, Cook County, Illinois",72188
-1400000US17031560200,"Census Tract 5602, Cook County, Illinois",63214
-1400000US17031560300,"Census Tract 5603, Cook County, Illinois",54119
-1400000US17031560400,"Census Tract 5604, Cook County, Illinois",56202
-1400000US17031560700,"Census Tract 5607, Cook County, Illinois",69631
-1400000US17031560800,"Census Tract 5608, Cook County, Illinois",86000
-1400000US17031560900,"Census Tract 5609, Cook County, Illinois",107159
-1400000US17031561000,"Census Tract 5610, Cook County, Illinois",129617
-1400000US17031561100,"Census Tract 5611, Cook County, Illinois",101985
-1400000US17031570100,"Census Tract 5701, Cook County, Illinois",54514
-1400000US17031570200,"Census Tract 5702, Cook County, Illinois",74659
-1400000US17031570300,"Census Tract 5703, Cook County, Illinois",52786
-1400000US17031570400,"Census Tract 5704, Cook County, Illinois",63000
-1400000US17031570500,"Census Tract 5705, Cook County, Illinois",52986
-1400000US17031580100,"Census Tract 5801, Cook County, Illinois",46500
-1400000US17031580200,"Census Tract 5802, Cook County, Illinois",36944
-1400000US17031580300,"Census Tract 5803, Cook County, Illinois",54130
-1400000US17031580400,"Census Tract 5804, Cook County, Illinois",51216
-1400000US17031580501,"Census Tract 5805.01, Cook County, Illinois",38989
-1400000US17031580502,"Census Tract 5805.02, Cook County, Illinois",42516
-1400000US17031580600,"Census Tract 5806, Cook County, Illinois",61386
-1400000US17031580700,"Census Tract 5807, Cook County, Illinois",44802
-1400000US17031580800,"Census Tract 5808, Cook County, Illinois",47841
-1400000US17031590500,"Census Tract 5905, Cook County, Illinois",76923
-1400000US17031590600,"Census Tract 5906, Cook County, Illinois",51176
-1400000US17031590700,"Census Tract 5907, Cook County, Illinois",51818
-1400000US17031600400,"Census Tract 6004, Cook County, Illinois",-
-1400000US17031600600,"Census Tract 6006, Cook County, Illinois",37909
-1400000US17031600700,"Census Tract 6007, Cook County, Illinois",44911
-1400000US17031600900,"Census Tract 6009, Cook County, Illinois",60750
-1400000US17031610300,"Census Tract 6103, Cook County, Illinois",42466
-1400000US17031610400,"Census Tract 6104, Cook County, Illinois",42721
-1400000US17031610800,"Census Tract 6108, Cook County, Illinois",63250
-1400000US17031611000,"Census Tract 6110, Cook County, Illinois",29750
-1400000US17031611100,"Census Tract 6111, Cook County, Illinois",31250
-1400000US17031611200,"Census Tract 6112, Cook County, Illinois",27773
-1400000US17031611300,"Census Tract 6113, Cook County, Illinois",37917
-1400000US17031611400,"Census Tract 6114, Cook County, Illinois",43299
-1400000US17031611500,"Census Tract 6115, Cook County, Illinois",35884
-1400000US17031611600,"Census Tract 6116, Cook County, Illinois",37583
-1400000US17031611700,"Census Tract 6117, Cook County, Illinois",29083
-1400000US17031611800,"Census Tract 6118, Cook County, Illinois",58092
-1400000US17031611900,"Census Tract 6119, Cook County, Illinois",25658
-1400000US17031612000,"Census Tract 6120, Cook County, Illinois",57798
-1400000US17031612100,"Census Tract 6121, Cook County, Illinois",38958
-1400000US17031620100,"Census Tract 6201, Cook County, Illinois",64438
-1400000US17031620200,"Census Tract 6202, Cook County, Illinois",75833
-1400000US17031620300,"Census Tract 6203, Cook County, Illinois",63587
-1400000US17031620400,"Census Tract 6204, Cook County, Illinois",78656
-1400000US17031630100,"Census Tract 6301, Cook County, Illinois",37625
-1400000US17031630200,"Census Tract 6302, Cook County, Illinois",52188
-1400000US17031630300,"Census Tract 6303, Cook County, Illinois",52286
-1400000US17031630400,"Census Tract 6304, Cook County, Illinois",36221
-1400000US17031630500,"Census Tract 6305, Cook County, Illinois",48859
-1400000US17031630800,"Census Tract 6308, Cook County, Illinois",53273
-1400000US17031630900,"Census Tract 6309, Cook County, Illinois",46113
-1400000US17031640100,"Census Tract 6401, Cook County, Illinois",55750
-1400000US17031640300,"Census Tract 6403, Cook County, Illinois",72284
-1400000US17031640400,"Census Tract 6404, Cook County, Illinois",69857
-1400000US17031640500,"Census Tract 6405, Cook County, Illinois",92975
-1400000US17031640600,"Census Tract 6406, Cook County, Illinois",54252
-1400000US17031640700,"Census Tract 6407, Cook County, Illinois",62333
-1400000US17031640800,"Census Tract 6408, Cook County, Illinois",62222
-1400000US17031650100,"Census Tract 6501, Cook County, Illinois",42123
-1400000US17031650200,"Census Tract 6502, Cook County, Illinois",60868
-1400000US17031650301,"Census Tract 6503.01, Cook County, Illinois",64750
-1400000US17031650302,"Census Tract 6503.02, Cook County, Illinois",49680
-1400000US17031650400,"Census Tract 6504, Cook County, Illinois",57022
-1400000US17031650500,"Census Tract 6505, Cook County, Illinois",74718
-1400000US17031660301,"Census Tract 6603.01, Cook County, Illinois",31146
-1400000US17031660302,"Census Tract 6603.02, Cook County, Illinois",36713
-1400000US17031660400,"Census Tract 6604, Cook County, Illinois",60069
-1400000US17031660500,"Census Tract 6605, Cook County, Illinois",45139
-1400000US17031660600,"Census Tract 6606, Cook County, Illinois",31205
-1400000US17031660700,"Census Tract 6607, Cook County, Illinois",27000
-1400000US17031660800,"Census Tract 6608, Cook County, Illinois",37854
-1400000US17031660900,"Census Tract 6609, Cook County, Illinois",36991
-1400000US17031661000,"Census Tract 6610, Cook County, Illinois",43235
-1400000US17031661100,"Census Tract 6611, Cook County, Illinois",64419
-1400000US17031670100,"Census Tract 6701, Cook County, Illinois",36587
-1400000US17031670200,"Census Tract 6702, Cook County, Illinois",35833
-1400000US17031670300,"Census Tract 6703, Cook County, Illinois",33750
-1400000US17031670400,"Census Tract 6704, Cook County, Illinois",39000
-1400000US17031670500,"Census Tract 6705, Cook County, Illinois",32917
-1400000US17031670600,"Census Tract 6706, Cook County, Illinois",48021
-1400000US17031670700,"Census Tract 6707, Cook County, Illinois",34063
-1400000US17031670800,"Census Tract 6708, Cook County, Illinois",27917
-1400000US17031670900,"Census Tract 6709, Cook County, Illinois",34271
-1400000US17031671100,"Census Tract 6711, Cook County, Illinois",36042
-1400000US17031671200,"Census Tract 6712, Cook County, Illinois",35208
-1400000US17031671300,"Census Tract 6713, Cook County, Illinois",32614
-1400000US17031671400,"Census Tract 6714, Cook County, Illinois",42321
-1400000US17031671500,"Census Tract 6715, Cook County, Illinois",32163
-1400000US17031671600,"Census Tract 6716, Cook County, Illinois",30242
-1400000US17031671800,"Census Tract 6718, Cook County, Illinois",38698
-1400000US17031671900,"Census Tract 6719, Cook County, Illinois",50750
-1400000US17031672000,"Census Tract 6720, Cook County, Illinois",37354
-1400000US17031680500,"Census Tract 6805, Cook County, Illinois",23864
-1400000US17031680600,"Census Tract 6806, Cook County, Illinois",21250
-1400000US17031680900,"Census Tract 6809, Cook County, Illinois",23808
-1400000US17031681000,"Census Tract 6810, Cook County, Illinois",24604
-1400000US17031681100,"Census Tract 6811, Cook County, Illinois",30330
-1400000US17031681200,"Census Tract 6812, Cook County, Illinois",24275
-1400000US17031681300,"Census Tract 6813, Cook County, Illinois",30156
-1400000US17031681400,"Census Tract 6814, Cook County, Illinois",40156
-1400000US17031690300,"Census Tract 6903, Cook County, Illinois",19167
-1400000US17031690400,"Census Tract 6904, Cook County, Illinois",29207
-1400000US17031690500,"Census Tract 6905, Cook County, Illinois",33833
-1400000US17031690900,"Census Tract 6909, Cook County, Illinois",61125
-1400000US17031691000,"Census Tract 6910, Cook County, Illinois",71016
-1400000US17031691100,"Census Tract 6911, Cook County, Illinois",25729
-1400000US17031691200,"Census Tract 6912, Cook County, Illinois",31250
-1400000US17031691300,"Census Tract 6913, Cook County, Illinois",46250
-1400000US17031691400,"Census Tract 6914, Cook County, Illinois",38056
-1400000US17031691500,"Census Tract 6915, Cook County, Illinois",31081
-1400000US17031700100,"Census Tract 7001, Cook County, Illinois",73523
-1400000US17031700200,"Census Tract 7002, Cook County, Illinois",74915
-1400000US17031700301,"Census Tract 7003.01, Cook County, Illinois",75737
-1400000US17031700302,"Census Tract 7003.02, Cook County, Illinois",80195
-1400000US17031700401,"Census Tract 7004.01, Cook County, Illinois",79722
-1400000US17031700402,"Census Tract 7004.02, Cook County, Illinois",65871
-1400000US17031700501,"Census Tract 7005.01, Cook County, Illinois",73688
-1400000US17031700502,"Census Tract 7005.02, Cook County, Illinois",121182
-1400000US17031710100,"Census Tract 7101, Cook County, Illinois",22303
-1400000US17031710200,"Census Tract 7102, Cook County, Illinois",33995
-1400000US17031710300,"Census Tract 7103, Cook County, Illinois",36985
-1400000US17031710400,"Census Tract 7104, Cook County, Illinois",63042
-1400000US17031710500,"Census Tract 7105, Cook County, Illinois",31804
-1400000US17031710600,"Census Tract 7106, Cook County, Illinois",38269
-1400000US17031710700,"Census Tract 7107, Cook County, Illinois",40882
-1400000US17031710800,"Census Tract 7108, Cook County, Illinois",33325
-1400000US17031710900,"Census Tract 7109, Cook County, Illinois",37153
-1400000US17031711000,"Census Tract 7110, Cook County, Illinois",38664
-1400000US17031711100,"Census Tract 7111, Cook County, Illinois",49750
-1400000US17031711200,"Census Tract 7112, Cook County, Illinois",70224
-1400000US17031711300,"Census Tract 7113, Cook County, Illinois",67273
-1400000US17031711400,"Census Tract 7114, Cook County, Illinois",46083
-1400000US17031711500,"Census Tract 7115, Cook County, Illinois",44583
-1400000US17031720100,"Census Tract 7201, Cook County, Illinois",172935
-1400000US17031720200,"Census Tract 7202, Cook County, Illinois",93318
-1400000US17031720300,"Census Tract 7203, Cook County, Illinois",123715
-1400000US17031720400,"Census Tract 7204, Cook County, Illinois",140804
-1400000US17031720500,"Census Tract 7205, Cook County, Illinois",156992
-1400000US17031720600,"Census Tract 7206, Cook County, Illinois",131250
-1400000US17031720700,"Census Tract 7207, Cook County, Illinois",107292
-1400000US17031730100,"Census Tract 7301, Cook County, Illinois",69643
-1400000US17031730201,"Census Tract 7302.01, Cook County, Illinois",52344
-1400000US17031730202,"Census Tract 7302.02, Cook County, Illinois",71364
-1400000US17031730300,"Census Tract 7303, Cook County, Illinois",57188
-1400000US17031730400,"Census Tract 7304, Cook County, Illinois",98207
-1400000US17031730500,"Census Tract 7305, Cook County, Illinois",61485
-1400000US17031730600,"Census Tract 7306, Cook County, Illinois",48523
-1400000US17031730700,"Census Tract 7307, Cook County, Illinois",53777
-1400000US17031740100,"Census Tract 7401, Cook County, Illinois",105577
-1400000US17031740200,"Census Tract 7402, Cook County, Illinois",123625
-1400000US17031740300,"Census Tract 7403, Cook County, Illinois",140000
-1400000US17031740400,"Census Tract 7404, Cook County, Illinois",110234
-1400000US17031750100,"Census Tract 7501, Cook County, Illinois",46094
-1400000US17031750200,"Census Tract 7502, Cook County, Illinois",112083
-1400000US17031750300,"Census Tract 7503, Cook County, Illinois",110536
-1400000US17031750400,"Census Tract 7504, Cook County, Illinois",119803
-1400000US17031750500,"Census Tract 7505, Cook County, Illinois",68327
-1400000US17031750600,"Census Tract 7506, Cook County, Illinois",56023
-1400000US17031760801,"Census Tract 7608.01, Cook County, Illinois",75553
-1400000US17031760802,"Census Tract 7608.02, Cook County, Illinois",90382
-1400000US17031760803,"Census Tract 7608.03, Cook County, Illinois",52658
-1400000US17031770201,"Census Tract 7702.01, Cook County, Illinois",92216
-1400000US17031770202,"Census Tract 7702.02, Cook County, Illinois",90125
-1400000US17031770300,"Census Tract 7703, Cook County, Illinois",91319
-1400000US17031770400,"Census Tract 7704, Cook County, Illinois",91964
-1400000US17031770500,"Census Tract 7705, Cook County, Illinois",41088
-1400000US17031770601,"Census Tract 7706.01, Cook County, Illinois",108357
-1400000US17031770602,"Census Tract 7706.02, Cook County, Illinois",74500
-1400000US17031770700,"Census Tract 7707, Cook County, Illinois",80921
-1400000US17031770800,"Census Tract 7708, Cook County, Illinois",62585
-1400000US17031770901,"Census Tract 7709.01, Cook County, Illinois",95592
-1400000US17031770902,"Census Tract 7709.02, Cook County, Illinois",81974
-1400000US17031800100,"Census Tract 8001, Cook County, Illinois","250,000+"
-1400000US17031800200,"Census Tract 8002, Cook County, Illinois","250,000+"
-1400000US17031800300,"Census Tract 8003, Cook County, Illinois","250,000+"
-1400000US17031800400,"Census Tract 8004, Cook County, Illinois","250,000+"
-1400000US17031800500,"Census Tract 8005, Cook County, Illinois","250,000+"
-1400000US17031800600,"Census Tract 8006, Cook County, Illinois","250,000+"
-1400000US17031800700,"Census Tract 8007, Cook County, Illinois",233750
-1400000US17031800800,"Census Tract 8008, Cook County, Illinois",139907
-1400000US17031800900,"Census Tract 8009, Cook County, Illinois",129006
-1400000US17031801000,"Census Tract 8010, Cook County, Illinois",166250
-1400000US17031801100,"Census Tract 8011, Cook County, Illinois",199306
-1400000US17031801200,"Census Tract 8012, Cook County, Illinois","250,000+"
-1400000US17031801300,"Census Tract 8013, Cook County, Illinois","250,000+"
-1400000US17031801400,"Census Tract 8014, Cook County, Illinois",158250
-1400000US17031801500,"Census Tract 8015, Cook County, Illinois",135739
-1400000US17031801601,"Census Tract 8016.01, Cook County, Illinois",150000
-1400000US17031801603,"Census Tract 8016.03, Cook County, Illinois",51319
-1400000US17031801605,"Census Tract 8016.05, Cook County, Illinois",157458
-1400000US17031801606,"Census Tract 8016.06, Cook County, Illinois",161544
-1400000US17031801607,"Census Tract 8016.07, Cook County, Illinois",120405
-1400000US17031801608,"Census Tract 8016.08, Cook County, Illinois",140825
-1400000US17031801701,"Census Tract 8017.01, Cook County, Illinois",197417
-1400000US17031801702,"Census Tract 8017.02, Cook County, Illinois",146375
-1400000US17031801800,"Census Tract 8018, Cook County, Illinois",189219
-1400000US17031801901,"Census Tract 8019.01, Cook County, Illinois",126576
-1400000US17031801902,"Census Tract 8019.02, Cook County, Illinois",194205
-1400000US17031802002,"Census Tract 8020.02, Cook County, Illinois",142008
-1400000US17031802003,"Census Tract 8020.03, Cook County, Illinois",111375
-1400000US17031802004,"Census Tract 8020.04, Cook County, Illinois",52095
-1400000US17031802100,"Census Tract 8021, Cook County, Illinois",182868
-1400000US17031802200,"Census Tract 8022, Cook County, Illinois",166691
-1400000US17031802300,"Census Tract 8023, Cook County, Illinois",189527
-1400000US17031802402,"Census Tract 8024.02, Cook County, Illinois",71959
-1400000US17031802403,"Census Tract 8024.03, Cook County, Illinois",100375
-1400000US17031802404,"Census Tract 8024.04, Cook County, Illinois",64922
-1400000US17031802503,"Census Tract 8025.03, Cook County, Illinois",96938
-1400000US17031802504,"Census Tract 8025.04, Cook County, Illinois",89261
-1400000US17031802505,"Census Tract 8025.05, Cook County, Illinois",59398
-1400000US17031802506,"Census Tract 8025.06, Cook County, Illinois",97344
-1400000US17031802605,"Census Tract 8026.05, Cook County, Illinois",116940
-1400000US17031802607,"Census Tract 8026.07, Cook County, Illinois",122639
-1400000US17031802608,"Census Tract 8026.08, Cook County, Illinois",87321
-1400000US17031802609,"Census Tract 8026.09, Cook County, Illinois",58510
-1400000US17031802610,"Census Tract 8026.10, Cook County, Illinois",104511
-1400000US17031802701,"Census Tract 8027.01, Cook County, Illinois",106875
-1400000US17031802702,"Census Tract 8027.02, Cook County, Illinois",116831
-1400000US17031802801,"Census Tract 8028.01, Cook County, Illinois",132566
-1400000US17031802802,"Census Tract 8028.02, Cook County, Illinois",120760
-1400000US17031802900,"Census Tract 8029, Cook County, Illinois",157262
-1400000US17031803005,"Census Tract 8030.05, Cook County, Illinois",114250
-1400000US17031803007,"Census Tract 8030.07, Cook County, Illinois",116979
-1400000US17031803008,"Census Tract 8030.08, Cook County, Illinois",130197
-1400000US17031803010,"Census Tract 8030.10, Cook County, Illinois",129118
-1400000US17031803012,"Census Tract 8030.12, Cook County, Illinois",82423
-1400000US17031803013,"Census Tract 8030.13, Cook County, Illinois",125221
-1400000US17031803014,"Census Tract 8030.14, Cook County, Illinois",79485
-1400000US17031803015,"Census Tract 8030.15, Cook County, Illinois",105500
-1400000US17031803016,"Census Tract 8030.16, Cook County, Illinois",105882
-1400000US17031803017,"Census Tract 8030.17, Cook County, Illinois",116974
-1400000US17031803100,"Census Tract 8031, Cook County, Illinois",147188
-1400000US17031803200,"Census Tract 8032, Cook County, Illinois",131174
-1400000US17031803300,"Census Tract 8033, Cook County, Illinois",132390
-1400000US17031803400,"Census Tract 8034, Cook County, Illinois",141082
-1400000US17031803500,"Census Tract 8035, Cook County, Illinois",142000
-1400000US17031803603,"Census Tract 8036.03, Cook County, Illinois",179949
-1400000US17031803604,"Census Tract 8036.04, Cook County, Illinois",94375
-1400000US17031803605,"Census Tract 8036.05, Cook County, Illinois",102100
-1400000US17031803606,"Census Tract 8036.06, Cook County, Illinois",53662
-1400000US17031803607,"Census Tract 8036.07, Cook County, Illinois",125673
-1400000US17031803608,"Census Tract 8036.08, Cook County, Illinois",89667
-1400000US17031803610,"Census Tract 8036.10, Cook County, Illinois",98018
-1400000US17031803611,"Census Tract 8036.11, Cook County, Illinois",68984
-1400000US17031803612,"Census Tract 8036.12, Cook County, Illinois",53803
-1400000US17031803701,"Census Tract 8037.01, Cook County, Illinois",144615
-1400000US17031803702,"Census Tract 8037.02, Cook County, Illinois",135966
-1400000US17031803800,"Census Tract 8038, Cook County, Illinois",122865
-1400000US17031803901,"Census Tract 8039.01, Cook County, Illinois",93967
-1400000US17031803902,"Census Tract 8039.02, Cook County, Illinois",97602
-1400000US17031804000,"Census Tract 8040, Cook County, Illinois",101129
-1400000US17031804102,"Census Tract 8041.02, Cook County, Illinois",160625
-1400000US17031804104,"Census Tract 8041.04, Cook County, Illinois",128368
-1400000US17031804105,"Census Tract 8041.05, Cook County, Illinois",139760
-1400000US17031804106,"Census Tract 8041.06, Cook County, Illinois",129375
-1400000US17031804108,"Census Tract 8041.08, Cook County, Illinois",96176
-1400000US17031804109,"Census Tract 8041.09, Cook County, Illinois",145750
-1400000US17031804201,"Census Tract 8042.01, Cook County, Illinois",160667
-1400000US17031804202,"Census Tract 8042.02, Cook County, Illinois",161221
-1400000US17031804305,"Census Tract 8043.05, Cook County, Illinois",85139
-1400000US17031804306,"Census Tract 8043.06, Cook County, Illinois",71025
-1400000US17031804308,"Census Tract 8043.08, Cook County, Illinois",80030
-1400000US17031804309,"Census Tract 8043.09, Cook County, Illinois",93750
-1400000US17031804310,"Census Tract 8043.10, Cook County, Illinois",102447
-1400000US17031804311,"Census Tract 8043.11, Cook County, Illinois",117218
-1400000US17031804403,"Census Tract 8044.03, Cook County, Illinois",91690
-1400000US17031804404,"Census Tract 8044.04, Cook County, Illinois",86563
-1400000US17031804405,"Census Tract 8044.05, Cook County, Illinois",61719
-1400000US17031804406,"Census Tract 8044.06, Cook County, Illinois",79357
-1400000US17031804505,"Census Tract 8045.05, Cook County, Illinois",72772
-1400000US17031804506,"Census Tract 8045.06, Cook County, Illinois",123145
-1400000US17031804507,"Census Tract 8045.07, Cook County, Illinois",128664
-1400000US17031804508,"Census Tract 8045.08, Cook County, Illinois",71350
-1400000US17031804509,"Census Tract 8045.09, Cook County, Illinois",78771
-1400000US17031804510,"Census Tract 8045.10, Cook County, Illinois",66406
-1400000US17031804511,"Census Tract 8045.11, Cook County, Illinois",59934
-1400000US17031804603,"Census Tract 8046.03, Cook County, Illinois",86982
-1400000US17031804606,"Census Tract 8046.06, Cook County, Illinois",135385
-1400000US17031804607,"Census Tract 8046.07, Cook County, Illinois",104330
-1400000US17031804608,"Census Tract 8046.08, Cook County, Illinois",119118
-1400000US17031804609,"Census Tract 8046.09, Cook County, Illinois",113750
-1400000US17031804610,"Census Tract 8046.10, Cook County, Illinois",80900
-1400000US17031804611,"Census Tract 8046.11, Cook County, Illinois",115353
-1400000US17031804701,"Census Tract 8047.01, Cook County, Illinois",84748
-1400000US17031804705,"Census Tract 8047.05, Cook County, Illinois",82059
-1400000US17031804706,"Census Tract 8047.06, Cook County, Illinois",115625
-1400000US17031804709,"Census Tract 8047.09, Cook County, Illinois",77750
-1400000US17031804710,"Census Tract 8047.10, Cook County, Illinois",110282
-1400000US17031804711,"Census Tract 8047.11, Cook County, Illinois",77768
-1400000US17031804712,"Census Tract 8047.12, Cook County, Illinois",106458
-1400000US17031804713,"Census Tract 8047.13, Cook County, Illinois",95532
-1400000US17031804714,"Census Tract 8047.14, Cook County, Illinois",86109
-1400000US17031804715,"Census Tract 8047.15, Cook County, Illinois",53321
-1400000US17031804716,"Census Tract 8047.16, Cook County, Illinois",101771
-1400000US17031804803,"Census Tract 8048.03, Cook County, Illinois",83603
-1400000US17031804804,"Census Tract 8048.04, Cook County, Illinois",84861
-1400000US17031804805,"Census Tract 8048.05, Cook County, Illinois",103269
-1400000US17031804806,"Census Tract 8048.06, Cook County, Illinois",81500
-1400000US17031804807,"Census Tract 8048.07, Cook County, Illinois",99534
-1400000US17031804808,"Census Tract 8048.08, Cook County, Illinois",121429
-1400000US17031804809,"Census Tract 8048.09, Cook County, Illinois",99556
-1400000US17031804810,"Census Tract 8048.10, Cook County, Illinois",92891
-1400000US17031804901,"Census Tract 8049.01, Cook County, Illinois",122267
-1400000US17031804902,"Census Tract 8049.02, Cook County, Illinois",108323
-1400000US17031805001,"Census Tract 8050.01, Cook County, Illinois",135602
-1400000US17031805002,"Census Tract 8050.02, Cook County, Illinois",59621
-1400000US17031805105,"Census Tract 8051.05, Cook County, Illinois",65117
-1400000US17031805106,"Census Tract 8051.06, Cook County, Illinois",98636
-1400000US17031805107,"Census Tract 8051.07, Cook County, Illinois",70139
-1400000US17031805108,"Census Tract 8051.08, Cook County, Illinois",74943
-1400000US17031805109,"Census Tract 8051.09, Cook County, Illinois",97165
-1400000US17031805110,"Census Tract 8051.10, Cook County, Illinois",93447
-1400000US17031805111,"Census Tract 8051.11, Cook County, Illinois",64838
-1400000US17031805112,"Census Tract 8051.12, Cook County, Illinois",79444
-1400000US17031805201,"Census Tract 8052.01, Cook County, Illinois",102375
-1400000US17031805202,"Census Tract 8052.02, Cook County, Illinois",118409
-1400000US17031805301,"Census Tract 8053.01, Cook County, Illinois",85104
-1400000US17031805302,"Census Tract 8053.02, Cook County, Illinois",96685
-1400000US17031805401,"Census Tract 8054.01, Cook County, Illinois",99609
-1400000US17031805402,"Census Tract 8054.02, Cook County, Illinois",100625
-1400000US17031805501,"Census Tract 8055.01, Cook County, Illinois",147279
-1400000US17031805502,"Census Tract 8055.02, Cook County, Illinois",198406
-1400000US17031805600,"Census Tract 8056, Cook County, Illinois",159333
-1400000US17031805701,"Census Tract 8057.01, Cook County, Illinois",157813
-1400000US17031805702,"Census Tract 8057.02, Cook County, Illinois",139643
-1400000US17031805801,"Census Tract 8058.01, Cook County, Illinois",138281
-1400000US17031805802,"Census Tract 8058.02, Cook County, Illinois",136071
-1400000US17031805901,"Census Tract 8059.01, Cook County, Illinois",103077
-1400000US17031805902,"Census Tract 8059.02, Cook County, Illinois",142045
-1400000US17031806001,"Census Tract 8060.01, Cook County, Illinois",61134
-1400000US17031806002,"Census Tract 8060.02, Cook County, Illinois",56908
-1400000US17031806003,"Census Tract 8060.03, Cook County, Illinois",82309
-1400000US17031806004,"Census Tract 8060.04, Cook County, Illinois",58352
-1400000US17031806102,"Census Tract 8061.02, Cook County, Illinois",113828
-1400000US17031806103,"Census Tract 8061.03, Cook County, Illinois",107230
-1400000US17031806104,"Census Tract 8061.04, Cook County, Illinois",57328
-1400000US17031806201,"Census Tract 8062.01, Cook County, Illinois",54167
-1400000US17031806202,"Census Tract 8062.02, Cook County, Illinois",69575
-1400000US17031806300,"Census Tract 8063, Cook County, Illinois",108083
-1400000US17031806400,"Census Tract 8064, Cook County, Illinois",111964
-1400000US17031806501,"Census Tract 8065.01, Cook County, Illinois",59821
-1400000US17031806502,"Census Tract 8065.02, Cook County, Illinois",88507
-1400000US17031806600,"Census Tract 8066, Cook County, Illinois",90865
-1400000US17031806700,"Census Tract 8067, Cook County, Illinois",144300
-1400000US17031806801,"Census Tract 8068.01, Cook County, Illinois",91364
-1400000US17031806802,"Census Tract 8068.02, Cook County, Illinois",69167
-1400000US17031806900,"Census Tract 8069, Cook County, Illinois",100481
-1400000US17031807000,"Census Tract 8070, Cook County, Illinois",68778
-1400000US17031807100,"Census Tract 8071, Cook County, Illinois",126350
-1400000US17031807200,"Census Tract 8072, Cook County, Illinois",102275
-1400000US17031807300,"Census Tract 8073, Cook County, Illinois",72273
-1400000US17031807400,"Census Tract 8074, Cook County, Illinois",64005
-1400000US17031807500,"Census Tract 8075, Cook County, Illinois",119020
-1400000US17031807600,"Census Tract 8076, Cook County, Illinois",72011
-1400000US17031807700,"Census Tract 8077, Cook County, Illinois",85056
-1400000US17031807800,"Census Tract 8078, Cook County, Illinois",125500
-1400000US17031807900,"Census Tract 8079, Cook County, Illinois",156125
-1400000US17031808001,"Census Tract 8080.01, Cook County, Illinois",108750
-1400000US17031808002,"Census Tract 8080.02, Cook County, Illinois",105516
-1400000US17031808100,"Census Tract 8081, Cook County, Illinois",70726
-1400000US17031808200,"Census Tract 8082, Cook County, Illinois",80577
-1400000US17031808301,"Census Tract 8083.01, Cook County, Illinois",98367
-1400000US17031808302,"Census Tract 8083.02, Cook County, Illinois",107083
-1400000US17031808400,"Census Tract 8084, Cook County, Illinois",101412
-1400000US17031808500,"Census Tract 8085, Cook County, Illinois",100725
-1400000US17031808600,"Census Tract 8086, Cook County, Illinois",203333
-1400000US17031808702,"Census Tract 8087.02, Cook County, Illinois",175000
-1400000US17031808800,"Census Tract 8088, Cook County, Illinois",226806
-1400000US17031808900,"Census Tract 8089, Cook County, Illinois",195625
-1400000US17031809000,"Census Tract 8090, Cook County, Illinois",209531
-1400000US17031809100,"Census Tract 8091, Cook County, Illinois",165417
-1400000US17031809200,"Census Tract 8092, Cook County, Illinois",60042
-1400000US17031809300,"Census Tract 8093, Cook County, Illinois",184083
-1400000US17031809400,"Census Tract 8094, Cook County, Illinois",128897
-1400000US17031809500,"Census Tract 8095, Cook County, Illinois",117955
-1400000US17031809600,"Census Tract 8096, Cook County, Illinois",95563
-1400000US17031809700,"Census Tract 8097, Cook County, Illinois",110809
-1400000US17031809800,"Census Tract 8098, Cook County, Illinois",183750
-1400000US17031809900,"Census Tract 8099, Cook County, Illinois",217458
-1400000US17031810000,"Census Tract 8100, Cook County, Illinois",148583
-1400000US17031810100,"Census Tract 8101, Cook County, Illinois",84024
-1400000US17031810200,"Census Tract 8102, Cook County, Illinois",72628
-1400000US17031810301,"Census Tract 8103.01, Cook County, Illinois",96058
-1400000US17031810302,"Census Tract 8103.02, Cook County, Illinois",116434
-1400000US17031810400,"Census Tract 8104, Cook County, Illinois",138507
-1400000US17031810501,"Census Tract 8105.01, Cook County, Illinois",99306
-1400000US17031810502,"Census Tract 8105.02, Cook County, Illinois",73257
-1400000US17031810600,"Census Tract 8106, Cook County, Illinois",69295
-1400000US17031810701,"Census Tract 8107.01, Cook County, Illinois",64663
-1400000US17031810702,"Census Tract 8107.02, Cook County, Illinois",83894
-1400000US17031810800,"Census Tract 8108, Cook County, Illinois",82911
-1400000US17031810900,"Census Tract 8109, Cook County, Illinois",65758
-1400000US17031811000,"Census Tract 8110, Cook County, Illinois",119519
-1400000US17031811100,"Census Tract 8111, Cook County, Illinois",66053
-1400000US17031811200,"Census Tract 8112, Cook County, Illinois",84018
-1400000US17031811301,"Census Tract 8113.01, Cook County, Illinois",79091
-1400000US17031811302,"Census Tract 8113.02, Cook County, Illinois",43720
-1400000US17031811401,"Census Tract 8114.01, Cook County, Illinois",80000
-1400000US17031811402,"Census Tract 8114.02, Cook County, Illinois",70759
-1400000US17031811500,"Census Tract 8115, Cook County, Illinois",86048
-1400000US17031811600,"Census Tract 8116, Cook County, Illinois",56143
-1400000US17031811701,"Census Tract 8117.01, Cook County, Illinois",69355
-1400000US17031811702,"Census Tract 8117.02, Cook County, Illinois",60179
-1400000US17031811800,"Census Tract 8118, Cook County, Illinois",80052
-1400000US17031811900,"Census Tract 8119, Cook County, Illinois",210875
-1400000US17031812000,"Census Tract 8120, Cook County, Illinois",183098
-1400000US17031812100,"Census Tract 8121, Cook County, Illinois",128750
-1400000US17031812200,"Census Tract 8122, Cook County, Illinois",238688
-1400000US17031812301,"Census Tract 8123.01, Cook County, Illinois",99750
-1400000US17031812302,"Census Tract 8123.02, Cook County, Illinois",161219
-1400000US17031812400,"Census Tract 8124, Cook County, Illinois",234167
-1400000US17031812500,"Census Tract 8125, Cook County, Illinois",130125
-1400000US17031812600,"Census Tract 8126, Cook County, Illinois",108056
-1400000US17031812700,"Census Tract 8127, Cook County, Illinois",119444
-1400000US17031812801,"Census Tract 8128.01, Cook County, Illinois",101350
-1400000US17031812802,"Census Tract 8128.02, Cook County, Illinois",103239
-1400000US17031812900,"Census Tract 8129, Cook County, Illinois",155160
-1400000US17031813000,"Census Tract 8130, Cook County, Illinois",127330
-1400000US17031813100,"Census Tract 8131, Cook County, Illinois",114653
-1400000US17031813200,"Census Tract 8132, Cook County, Illinois",161268
-1400000US17031813301,"Census Tract 8133.01, Cook County, Illinois",39750
-1400000US17031813302,"Census Tract 8133.02, Cook County, Illinois",39508
-1400000US17031813400,"Census Tract 8134, Cook County, Illinois",49453
-1400000US17031813500,"Census Tract 8135, Cook County, Illinois",62281
-1400000US17031813600,"Census Tract 8136, Cook County, Illinois",56919
-1400000US17031813701,"Census Tract 8137.01, Cook County, Illinois",49453
-1400000US17031813702,"Census Tract 8137.02, Cook County, Illinois",52055
-1400000US17031813801,"Census Tract 8138.01, Cook County, Illinois",50417
-1400000US17031813802,"Census Tract 8138.02, Cook County, Illinois",43346
-1400000US17031813900,"Census Tract 8139, Cook County, Illinois",44884
-1400000US17031814000,"Census Tract 8140, Cook County, Illinois",50642
-1400000US17031814100,"Census Tract 8141, Cook County, Illinois",45492
-1400000US17031814200,"Census Tract 8142, Cook County, Illinois",47321
-1400000US17031814300,"Census Tract 8143, Cook County, Illinois",55238
-1400000US17031814400,"Census Tract 8144, Cook County, Illinois",54489
-1400000US17031814500,"Census Tract 8145, Cook County, Illinois",68328
-1400000US17031814600,"Census Tract 8146, Cook County, Illinois",65000
-1400000US17031814700,"Census Tract 8147, Cook County, Illinois",81698
-1400000US17031814800,"Census Tract 8148, Cook County, Illinois",75668
-1400000US17031814900,"Census Tract 8149, Cook County, Illinois",69112
-1400000US17031815000,"Census Tract 8150, Cook County, Illinois",69458
-1400000US17031815100,"Census Tract 8151, Cook County, Illinois",83665
-1400000US17031815200,"Census Tract 8152, Cook County, Illinois",59400
-1400000US17031815300,"Census Tract 8153, Cook County, Illinois",85828
-1400000US17031815400,"Census Tract 8154, Cook County, Illinois",75833
-1400000US17031815500,"Census Tract 8155, Cook County, Illinois",74491
-1400000US17031815600,"Census Tract 8156, Cook County, Illinois",77941
-1400000US17031815701,"Census Tract 8157.01, Cook County, Illinois",137981
-1400000US17031815702,"Census Tract 8157.02, Cook County, Illinois",122344
-1400000US17031815800,"Census Tract 8158, Cook County, Illinois",115156
-1400000US17031815900,"Census Tract 8159, Cook County, Illinois",92688
-1400000US17031816000,"Census Tract 8160, Cook County, Illinois",120833
-1400000US17031816100,"Census Tract 8161, Cook County, Illinois",89674
-1400000US17031816200,"Census Tract 8162, Cook County, Illinois",76607
-1400000US17031816300,"Census Tract 8163, Cook County, Illinois",64031
-1400000US17031816401,"Census Tract 8164.01, Cook County, Illinois",50081
-1400000US17031816402,"Census Tract 8164.02, Cook County, Illinois",55817
-1400000US17031816500,"Census Tract 8165, Cook County, Illinois",43188
-1400000US17031816600,"Census Tract 8166, Cook County, Illinois",60192
-1400000US17031816700,"Census Tract 8167, Cook County, Illinois",57664
-1400000US17031816800,"Census Tract 8168, Cook County, Illinois",72476
-1400000US17031816900,"Census Tract 8169, Cook County, Illinois",70370
-1400000US17031817000,"Census Tract 8170, Cook County, Illinois",62303
-1400000US17031817101,"Census Tract 8171.01, Cook County, Illinois",54261
-1400000US17031817102,"Census Tract 8171.02, Cook County, Illinois",76105
-1400000US17031817200,"Census Tract 8172, Cook County, Illinois",60114
-1400000US17031817300,"Census Tract 8173, Cook County, Illinois",48977
-1400000US17031817400,"Census Tract 8174, Cook County, Illinois",63380
-1400000US17031817500,"Census Tract 8175, Cook County, Illinois",56838
-1400000US17031817600,"Census Tract 8176, Cook County, Illinois",53841
-1400000US17031817700,"Census Tract 8177, Cook County, Illinois",78750
-1400000US17031817900,"Census Tract 8179, Cook County, Illinois",68150
-1400000US17031818000,"Census Tract 8180, Cook County, Illinois",72730
-1400000US17031818100,"Census Tract 8181, Cook County, Illinois",116225
-1400000US17031818200,"Census Tract 8182, Cook County, Illinois",97740
-1400000US17031818300,"Census Tract 8183, Cook County, Illinois",71182
-1400000US17031818401,"Census Tract 8184.01, Cook County, Illinois",92500
-1400000US17031818402,"Census Tract 8184.02, Cook County, Illinois",97574
-1400000US17031818500,"Census Tract 8185, Cook County, Illinois",106071
-1400000US17031818600,"Census Tract 8186, Cook County, Illinois",109315
-1400000US17031818700,"Census Tract 8187, Cook County, Illinois",116667
-1400000US17031818800,"Census Tract 8188, Cook County, Illinois",110675
-1400000US17031818900,"Census Tract 8189, Cook County, Illinois",116750
-1400000US17031819000,"Census Tract 8190, Cook County, Illinois",169915
-1400000US17031819100,"Census Tract 8191, Cook County, Illinois",71652
-1400000US17031819200,"Census Tract 8192, Cook County, Illinois",71717
-1400000US17031819300,"Census Tract 8193, Cook County, Illinois",83889
-1400000US17031819400,"Census Tract 8194, Cook County, Illinois",84250
-1400000US17031819500,"Census Tract 8195, Cook County, Illinois",128482
-1400000US17031819600,"Census Tract 8196, Cook County, Illinois",168864
-1400000US17031819700,"Census Tract 8197, Cook County, Illinois",186071
-1400000US17031819801,"Census Tract 8198.01, Cook County, Illinois",188317
-1400000US17031819802,"Census Tract 8198.02, Cook County, Illinois",193036
-1400000US17031819900,"Census Tract 8199, Cook County, Illinois",200438
-1400000US17031820000,"Census Tract 8200, Cook County, Illinois",232375
-1400000US17031820101,"Census Tract 8201.01, Cook County, Illinois",142692
-1400000US17031820103,"Census Tract 8201.03, Cook County, Illinois",87891
-1400000US17031820104,"Census Tract 8201.04, Cook County, Illinois",97692
-1400000US17031820201,"Census Tract 8202.01, Cook County, Illinois",147853
-1400000US17031820202,"Census Tract 8202.02, Cook County, Illinois",62472
-1400000US17031820300,"Census Tract 8203, Cook County, Illinois",57074
-1400000US17031820400,"Census Tract 8204, Cook County, Illinois",42519
-1400000US17031820501,"Census Tract 8205.01, Cook County, Illinois",72128
-1400000US17031820502,"Census Tract 8205.02, Cook County, Illinois",70485
-1400000US17031820603,"Census Tract 8206.03, Cook County, Illinois",76417
-1400000US17031820604,"Census Tract 8206.04, Cook County, Illinois",45417
-1400000US17031820605,"Census Tract 8206.05, Cook County, Illinois",49899
-1400000US17031820606,"Census Tract 8206.06, Cook County, Illinois",75481
-1400000US17031820700,"Census Tract 8207, Cook County, Illinois",77092
-1400000US17031820800,"Census Tract 8208, Cook County, Illinois",74423
-1400000US17031820901,"Census Tract 8209.01, Cook County, Illinois",67571
-1400000US17031820902,"Census Tract 8209.02, Cook County, Illinois",92430
-1400000US17031821001,"Census Tract 8210.01, Cook County, Illinois",70268
-1400000US17031821002,"Census Tract 8210.02, Cook County, Illinois",67303
-1400000US17031821101,"Census Tract 8211.01, Cook County, Illinois",71304
-1400000US17031821102,"Census Tract 8211.02, Cook County, Illinois",60536
-1400000US17031821200,"Census Tract 8212, Cook County, Illinois",66952
-1400000US17031821300,"Census Tract 8213, Cook County, Illinois",49425
-1400000US17031821401,"Census Tract 8214.01, Cook County, Illinois",48981
-1400000US17031821402,"Census Tract 8214.02, Cook County, Illinois",76290
-1400000US17031821500,"Census Tract 8215, Cook County, Illinois",41027
-1400000US17031821600,"Census Tract 8216, Cook County, Illinois",79333
-1400000US17031821700,"Census Tract 8217, Cook County, Illinois",98125
-1400000US17031821800,"Census Tract 8218, Cook County, Illinois",90863
-1400000US17031821900,"Census Tract 8219, Cook County, Illinois",98869
-1400000US17031822000,"Census Tract 8220, Cook County, Illinois",60580
-1400000US17031822101,"Census Tract 8221.01, Cook County, Illinois",81518
-1400000US17031822102,"Census Tract 8221.02, Cook County, Illinois",105833
-1400000US17031822200,"Census Tract 8222, Cook County, Illinois",97108
-1400000US17031822301,"Census Tract 8223.01, Cook County, Illinois",75938
-1400000US17031822302,"Census Tract 8223.02, Cook County, Illinois",74960
-1400000US17031822400,"Census Tract 8224, Cook County, Illinois",47730
-1400000US17031822500,"Census Tract 8225, Cook County, Illinois",76642
-1400000US17031822601,"Census Tract 8226.01, Cook County, Illinois",101740
-1400000US17031822602,"Census Tract 8226.02, Cook County, Illinois",77003
-1400000US17031822701,"Census Tract 8227.01, Cook County, Illinois",78571
-1400000US17031822702,"Census Tract 8227.02, Cook County, Illinois",67037
-1400000US17031822801,"Census Tract 8228.01, Cook County, Illinois",106731
-1400000US17031822802,"Census Tract 8228.02, Cook County, Illinois",84444
-1400000US17031822900,"Census Tract 8229, Cook County, Illinois",75586
-1400000US17031823001,"Census Tract 8230.01, Cook County, Illinois",48409
-1400000US17031823002,"Census Tract 8230.02, Cook County, Illinois",80673
-1400000US17031823101,"Census Tract 8231.01, Cook County, Illinois",57283
-1400000US17031823102,"Census Tract 8231.02, Cook County, Illinois",83092
-1400000US17031823200,"Census Tract 8232, Cook County, Illinois",78268
-1400000US17031823302,"Census Tract 8233.02, Cook County, Illinois",65373
-1400000US17031823303,"Census Tract 8233.03, Cook County, Illinois",80104
-1400000US17031823304,"Census Tract 8233.04, Cook County, Illinois",83300
-1400000US17031823400,"Census Tract 8234, Cook County, Illinois",63750
-1400000US17031823500,"Census Tract 8235, Cook County, Illinois",63487
-1400000US17031823602,"Census Tract 8236.02, Cook County, Illinois",80852
-1400000US17031823603,"Census Tract 8236.03, Cook County, Illinois",44875
-1400000US17031823604,"Census Tract 8236.04, Cook County, Illinois",102450
-1400000US17031823605,"Census Tract 8236.05, Cook County, Illinois",96121
-1400000US17031823702,"Census Tract 8237.02, Cook County, Illinois",70096
-1400000US17031823703,"Census Tract 8237.03, Cook County, Illinois",62511
-1400000US17031823704,"Census Tract 8237.04, Cook County, Illinois",96750
-1400000US17031823705,"Census Tract 8237.05, Cook County, Illinois",63508
-1400000US17031823801,"Census Tract 8238.01, Cook County, Illinois",131042
-1400000US17031823803,"Census Tract 8238.03, Cook County, Illinois",93125
-1400000US17031823805,"Census Tract 8238.05, Cook County, Illinois",77188
-1400000US17031823806,"Census Tract 8238.06, Cook County, Illinois",56172
-1400000US17031823901,"Census Tract 8239.01, Cook County, Illinois",117891
-1400000US17031823903,"Census Tract 8239.03, Cook County, Illinois",108274
-1400000US17031823904,"Census Tract 8239.04, Cook County, Illinois",114464
-1400000US17031824003,"Census Tract 8240.03, Cook County, Illinois",103023
-1400000US17031824004,"Census Tract 8240.04, Cook County, Illinois",118707
-1400000US17031824005,"Census Tract 8240.05, Cook County, Illinois",139240
-1400000US17031824006,"Census Tract 8240.06, Cook County, Illinois",143466
-1400000US17031824105,"Census Tract 8241.05, Cook County, Illinois",118650
-1400000US17031824106,"Census Tract 8241.06, Cook County, Illinois",104195
-1400000US17031824107,"Census Tract 8241.07, Cook County, Illinois",93466
-1400000US17031824108,"Census Tract 8241.08, Cook County, Illinois",99615
-1400000US17031824113,"Census Tract 8241.13, Cook County, Illinois",107391
-1400000US17031824114,"Census Tract 8241.14, Cook County, Illinois",116008
-1400000US17031824115,"Census Tract 8241.15, Cook County, Illinois",84342
-1400000US17031824116,"Census Tract 8241.16, Cook County, Illinois",80100
-1400000US17031824117,"Census Tract 8241.17, Cook County, Illinois",122324
-1400000US17031824119,"Census Tract 8241.19, Cook County, Illinois",129539
-1400000US17031824120,"Census Tract 8241.20, Cook County, Illinois",146682
-1400000US17031824121,"Census Tract 8241.21, Cook County, Illinois",87500
-1400000US17031824122,"Census Tract 8241.22, Cook County, Illinois",116477
-1400000US17031824123,"Census Tract 8241.23, Cook County, Illinois",90341
-1400000US17031824300,"Census Tract 8243, Cook County, Illinois",54196
-1400000US17031824400,"Census Tract 8244, Cook County, Illinois",64605
-1400000US17031824503,"Census Tract 8245.03, Cook County, Illinois",91378
-1400000US17031824505,"Census Tract 8245.05, Cook County, Illinois",84167
-1400000US17031824506,"Census Tract 8245.06, Cook County, Illinois",81696
-1400000US17031824507,"Census Tract 8245.07, Cook County, Illinois",74112
-1400000US17031824601,"Census Tract 8246.01, Cook County, Illinois",83317
-1400000US17031824602,"Census Tract 8246.02, Cook County, Illinois",83333
-1400000US17031824701,"Census Tract 8247.01, Cook County, Illinois",78278
-1400000US17031824702,"Census Tract 8247.02, Cook County, Illinois",78882
-1400000US17031824800,"Census Tract 8248, Cook County, Illinois",49306
-1400000US17031824900,"Census Tract 8249, Cook County, Illinois",42198
-1400000US17031825000,"Census Tract 8250, Cook County, Illinois",75350
-1400000US17031825200,"Census Tract 8252, Cook County, Illinois",82500
-1400000US17031825302,"Census Tract 8253.02, Cook County, Illinois",77389
-1400000US17031825303,"Census Tract 8253.03, Cook County, Illinois",78261
-1400000US17031825304,"Census Tract 8253.04, Cook County, Illinois",88125
-1400000US17031825400,"Census Tract 8254, Cook County, Illinois",89464
-1400000US17031825501,"Census Tract 8255.01, Cook County, Illinois",69643
-1400000US17031825503,"Census Tract 8255.03, Cook County, Illinois",60811
-1400000US17031825504,"Census Tract 8255.04, Cook County, Illinois",60893
-1400000US17031825505,"Census Tract 8255.05, Cook County, Illinois",67692
-1400000US17031825600,"Census Tract 8256, Cook County, Illinois",54426
-1400000US17031825700,"Census Tract 8257, Cook County, Illinois",53125
-1400000US17031825801,"Census Tract 8258.01, Cook County, Illinois",55927
-1400000US17031825802,"Census Tract 8258.02, Cook County, Illinois",46986
-1400000US17031825803,"Census Tract 8258.03, Cook County, Illinois",70345
-1400000US17031825900,"Census Tract 8259, Cook County, Illinois",52120
-1400000US17031826000,"Census Tract 8260, Cook County, Illinois",47424
-1400000US17031826100,"Census Tract 8261, Cook County, Illinois",53652
-1400000US17031826201,"Census Tract 8262.01, Cook County, Illinois",76359
-1400000US17031826202,"Census Tract 8262.02, Cook County, Illinois",40526
-1400000US17031826301,"Census Tract 8263.01, Cook County, Illinois",57143
-1400000US17031826303,"Census Tract 8263.03, Cook County, Illinois",52726
-1400000US17031826304,"Census Tract 8263.04, Cook County, Illinois",33882
-1400000US17031826401,"Census Tract 8264.01, Cook County, Illinois",65496
-1400000US17031826402,"Census Tract 8264.02, Cook County, Illinois",57703
-1400000US17031826500,"Census Tract 8265, Cook County, Illinois",46463
-1400000US17031826600,"Census Tract 8266, Cook County, Illinois",44219
-1400000US17031826700,"Census Tract 8267, Cook County, Illinois",42670
-1400000US17031826800,"Census Tract 8268, Cook County, Illinois",47883
-1400000US17031826901,"Census Tract 8269.01, Cook County, Illinois",30125
-1400000US17031826902,"Census Tract 8269.02, Cook County, Illinois",33382
-1400000US17031827000,"Census Tract 8270, Cook County, Illinois",39434
-1400000US17031827100,"Census Tract 8271, Cook County, Illinois",47219
-1400000US17031827200,"Census Tract 8272, Cook County, Illinois",68548
-1400000US17031827300,"Census Tract 8273, Cook County, Illinois",33125
-1400000US17031827400,"Census Tract 8274, Cook County, Illinois",46382
-1400000US17031827500,"Census Tract 8275, Cook County, Illinois",50347
-1400000US17031827600,"Census Tract 8276, Cook County, Illinois",41319
-1400000US17031827700,"Census Tract 8277, Cook County, Illinois",54942
-1400000US17031827801,"Census Tract 8278.01, Cook County, Illinois",63936
-1400000US17031827802,"Census Tract 8278.02, Cook County, Illinois",87906
-1400000US17031827804,"Census Tract 8278.04, Cook County, Illinois",83158
-1400000US17031827805,"Census Tract 8278.05, Cook County, Illinois",79950
-1400000US17031827901,"Census Tract 8279.01, Cook County, Illinois",103906
-1400000US17031827902,"Census Tract 8279.02, Cook County, Illinois",55658
-1400000US17031828000,"Census Tract 8280, Cook County, Illinois",59425
-1400000US17031828100,"Census Tract 8281, Cook County, Illinois",53494
-1400000US17031828201,"Census Tract 8282.01, Cook County, Illinois",70119
-1400000US17031828202,"Census Tract 8282.02, Cook County, Illinois",100778
-1400000US17031828300,"Census Tract 8283, Cook County, Illinois",78565
-1400000US17031828401,"Census Tract 8284.01, Cook County, Illinois",87669
-1400000US17031828402,"Census Tract 8284.02, Cook County, Illinois",74009
-1400000US17031828503,"Census Tract 8285.03, Cook County, Illinois",42065
-1400000US17031828504,"Census Tract 8285.04, Cook County, Illinois",50129
-1400000US17031828505,"Census Tract 8285.05, Cook County, Illinois",75842
-1400000US17031828506,"Census Tract 8285.06, Cook County, Illinois",71299
-1400000US17031828601,"Census Tract 8286.01, Cook County, Illinois",98611
-1400000US17031828602,"Census Tract 8286.02, Cook County, Illinois",101891
-1400000US17031828701,"Census Tract 8287.01, Cook County, Illinois",86250
-1400000US17031828702,"Census Tract 8287.02, Cook County, Illinois",55217
-1400000US17031828801,"Census Tract 8288.01, Cook County, Illinois",96981
-1400000US17031828802,"Census Tract 8288.02, Cook County, Illinois",79853
-1400000US17031828900,"Census Tract 8289, Cook County, Illinois",57835
-1400000US17031829000,"Census Tract 8290, Cook County, Illinois",22632
-1400000US17031829100,"Census Tract 8291, Cook County, Illinois",45580
-1400000US17031829200,"Census Tract 8292, Cook County, Illinois",52256
-1400000US17031829301,"Census Tract 8293.01, Cook County, Illinois",96769
-1400000US17031829302,"Census Tract 8293.02, Cook County, Illinois",43636
-1400000US17031829401,"Census Tract 8294.01, Cook County, Illinois",31339
-1400000US17031829402,"Census Tract 8294.02, Cook County, Illinois",53551
-1400000US17031829500,"Census Tract 8295, Cook County, Illinois",44375
-1400000US17031829600,"Census Tract 8296, Cook County, Illinois",88657
-1400000US17031829700,"Census Tract 8297, Cook County, Illinois",49306
-1400000US17031829800,"Census Tract 8298, Cook County, Illinois",115074
-1400000US17031829901,"Census Tract 8299.01, Cook County, Illinois",96028
-1400000US17031829902,"Census Tract 8299.02, Cook County, Illinois",81768
-1400000US17031830001,"Census Tract 8300.01, Cook County, Illinois",55313
-1400000US17031830003,"Census Tract 8300.03, Cook County, Illinois",117303
-1400000US17031830004,"Census Tract 8300.04, Cook County, Illinois",111250
-1400000US17031830005,"Census Tract 8300.05, Cook County, Illinois",121339
-1400000US17031830006,"Census Tract 8300.06, Cook County, Illinois",68828
-1400000US17031830007,"Census Tract 8300.07, Cook County, Illinois",60325
-1400000US17031830008,"Census Tract 8300.08, Cook County, Illinois",96184
-1400000US17031830100,"Census Tract 8301, Cook County, Illinois",80197
-1400000US17031830201,"Census Tract 8302.01, Cook County, Illinois",81848
-1400000US17031830202,"Census Tract 8302.02, Cook County, Illinois",89693
-1400000US17031830300,"Census Tract 8303, Cook County, Illinois",53237
-1400000US17031830400,"Census Tract 8304, Cook County, Illinois",60970
-1400000US17031830500,"Census Tract 8305, Cook County, Illinois",42946
-1400000US17031830600,"Census Tract 8306, Cook County, Illinois",45000
-1400000US17031830700,"Census Tract 8307, Cook County, Illinois",80400
-1400000US17031830800,"Census Tract 8308, Cook County, Illinois",119894
-1400000US17031830900,"Census Tract 8309, Cook County, Illinois",106724
-1400000US17031831000,"Census Tract 8310, Cook County, Illinois",210313
-1400000US17031831100,"Census Tract 8311, Cook County, Illinois",62786
-1400000US17031831200,"Census Tract 8312, Cook County, Illinois",41296
-1400000US17031831300,"Census Tract 8313, Cook County, Illinois",53854
-1400000US17031831400,"Census Tract 8314, Cook County, Illinois",39231
-1400000US17031831500,"Census Tract 8315, Cook County, Illinois",60938
-1400000US17031831600,"Census Tract 8316, Cook County, Illinois",61939
-1400000US17031831700,"Census Tract 8317, Cook County, Illinois",68056
-1400000US17031831800,"Census Tract 8318, Cook County, Illinois",66568
-1400000US17031831900,"Census Tract 8319, Cook County, Illinois",229318
-1400000US17031832000,"Census Tract 8320, Cook County, Illinois",228125
-1400000US17031832100,"Census Tract 8321, Cook County, Illinois",130063
-1400000US17031832200,"Census Tract 8322, Cook County, Illinois",209205
-1400000US17031832300,"Census Tract 8323, Cook County, Illinois",158750
-1400000US17031832400,"Census Tract 8324, Cook County, Illinois",126750
-1400000US17031832500,"Census Tract 8325, Cook County, Illinois",219048
-1400000US17031832600,"Census Tract 8326, Cook County, Illinois",246875
-1400000US17031832900,"Census Tract 8329, Cook County, Illinois",162813
-1400000US17031833000,"Census Tract 8330, Cook County, Illinois",210000
-1400000US17031833100,"Census Tract 8331, Cook County, Illinois",195787
-1400000US17031833300,"Census Tract 8333, Cook County, Illinois",154167
-1400000US17031833900,"Census Tract 8339, Cook County, Illinois",33250
-1400000US17031834000,"Census Tract 8340, Cook County, Illinois",46250
-1400000US17031834200,"Census Tract 8342, Cook County, Illinois",77500
-1400000US17031834300,"Census Tract 8343, Cook County, Illinois",75847
-1400000US17031834400,"Census Tract 8344, Cook County, Illinois",74663
-1400000US17031834500,"Census Tract 8345, Cook County, Illinois",41146
-1400000US17031834600,"Census Tract 8346, Cook County, Illinois",33636
-1400000US17031834700,"Census Tract 8347, Cook County, Illinois",28661
-1400000US17031834800,"Census Tract 8348, Cook County, Illinois",38750
-1400000US17031834900,"Census Tract 8349, Cook County, Illinois",29750
-1400000US17031835000,"Census Tract 8350, Cook County, Illinois",33922
-1400000US17031835100,"Census Tract 8351, Cook County, Illinois",44323
-1400000US17031835200,"Census Tract 8352, Cook County, Illinois",70962
-1400000US17031835500,"Census Tract 8355, Cook County, Illinois",29135
-1400000US17031835600,"Census Tract 8356, Cook County, Illinois",39417
-1400000US17031835700,"Census Tract 8357, Cook County, Illinois",49519
-1400000US17031835800,"Census Tract 8358, Cook County, Illinois",31875
-1400000US17031835900,"Census Tract 8359, Cook County, Illinois",52386
-1400000US17031836000,"Census Tract 8360, Cook County, Illinois",95109
-1400000US17031836100,"Census Tract 8361, Cook County, Illinois",26360
-1400000US17031836200,"Census Tract 8362, Cook County, Illinois",221042
-1400000US17031836300,"Census Tract 8363, Cook County, Illinois",86131
-1400000US17031836400,"Census Tract 8364, Cook County, Illinois",45449
-1400000US17031836500,"Census Tract 8365, Cook County, Illinois",45530
-1400000US17031836600,"Census Tract 8366, Cook County, Illinois",56594
-1400000US17031836700,"Census Tract 8367, Cook County, Illinois",38821
-1400000US17031836800,"Census Tract 8368, Cook County, Illinois",19079
-1400000US17031836900,"Census Tract 8369, Cook County, Illinois",28971
-1400000US17031837000,"Census Tract 8370, Cook County, Illinois",39175
-1400000US17031837100,"Census Tract 8371, Cook County, Illinois",32298
-1400000US17031837300,"Census Tract 8373, Cook County, Illinois",35417
-1400000US17031837400,"Census Tract 8374, Cook County, Illinois",36979
-1400000US17031837800,"Census Tract 8378, Cook County, Illinois",58529
-1400000US17031838000,"Census Tract 8380, Cook County, Illinois",63125
-1400000US17031838100,"Census Tract 8381, Cook County, Illinois",120833
-1400000US17031838200,"Census Tract 8382, Cook County, Illinois",105769
-1400000US17031838300,"Census Tract 8383, Cook County, Illinois",147708
-1400000US17031838600,"Census Tract 8386, Cook County, Illinois",17063
-1400000US17031838700,"Census Tract 8387, Cook County, Illinois",31601
-1400000US17031838800,"Census Tract 8388, Cook County, Illinois",29868
-1400000US17031839000,"Census Tract 8390, Cook County, Illinois",129196
-1400000US17031839100,"Census Tract 8391, Cook County, Illinois",159538
-1400000US17031839200,"Census Tract 8392, Cook County, Illinois",53393
-1400000US17031839500,"Census Tract 8395, Cook County, Illinois",158026
-1400000US17031839600,"Census Tract 8396, Cook County, Illinois",44760
-1400000US17031839700,"Census Tract 8397, Cook County, Illinois",91042
-1400000US17031839800,"Census Tract 8398, Cook County, Illinois",68750
-1400000US17031839900,"Census Tract 8399, Cook County, Illinois",76806
-1400000US17031840000,"Census Tract 8400, Cook County, Illinois",106029
-1400000US17031840100,"Census Tract 8401, Cook County, Illinois",53965
-1400000US17031840200,"Census Tract 8402, Cook County, Illinois",77083
-1400000US17031840300,"Census Tract 8403, Cook County, Illinois",53885
-1400000US17031840400,"Census Tract 8404, Cook County, Illinois",61845
-1400000US17031840700,"Census Tract 8407, Cook County, Illinois",45303
-1400000US17031840800,"Census Tract 8408, Cook County, Illinois",35117
-1400000US17031841000,"Census Tract 8410, Cook County, Illinois",112426
-1400000US17031841100,"Census Tract 8411, Cook County, Illinois",38922
-1400000US17031841200,"Census Tract 8412, Cook County, Illinois",45450
-1400000US17031841300,"Census Tract 8413, Cook County, Illinois",53017
-1400000US17031841400,"Census Tract 8414, Cook County, Illinois",56167
-1400000US17031841500,"Census Tract 8415, Cook County, Illinois",32539
-1400000US17031841600,"Census Tract 8416, Cook County, Illinois",67292
-1400000US17031841700,"Census Tract 8417, Cook County, Illinois",27109
-1400000US17031841800,"Census Tract 8418, Cook County, Illinois",43542
-1400000US17031841900,"Census Tract 8419, Cook County, Illinois",129934
-1400000US17031842000,"Census Tract 8420, Cook County, Illinois",171141
-1400000US17031842100,"Census Tract 8421, Cook County, Illinois",38119
-1400000US17031842200,"Census Tract 8422, Cook County, Illinois",105060
-1400000US17031842300,"Census Tract 8423, Cook County, Illinois",148125
-1400000US17031842400,"Census Tract 8424, Cook County, Illinois",53997
-1400000US17031842500,"Census Tract 8425, Cook County, Illinois",-
-1400000US17031842600,"Census Tract 8426, Cook County, Illinois",75724
-1400000US17031842800,"Census Tract 8428, Cook County, Illinois",29681
-1400000US17031842900,"Census Tract 8429, Cook County, Illinois",26420
-1400000US17031843000,"Census Tract 8430, Cook County, Illinois",27431
-1400000US17031843100,"Census Tract 8431, Cook County, Illinois",32098
-1400000US17031843200,"Census Tract 8432, Cook County, Illinois",51917
-1400000US17031843300,"Census Tract 8433, Cook County, Illinois",73092
-1400000US17031843400,"Census Tract 8434, Cook County, Illinois",33776
-1400000US17031843500,"Census Tract 8435, Cook County, Illinois",28750
-1400000US17031843600,"Census Tract 8436, Cook County, Illinois",67609
-1400000US17031843700,"Census Tract 8437, Cook County, Illinois",194375
-1400000US17031843800,"Census Tract 8438, Cook County, Illinois",41250
-1400000US17031843900,"Census Tract 8439, Cook County, Illinois",50104
-1400000US17031980000,"Census Tract 9800, Cook County, Illinois",-
-1400000US17031980100,"Census Tract 9801, Cook County, Illinois",-
-1400000US17031990000,"Census Tract 9900, Cook County, Illinois",-
-0100000US,United States,77263
-0400000US17,Illinois,83279
+,GEOID,MedianIncome
+1,17031010100,63138
+2,17031010201,41125
+3,17031010202,45236
+4,17031010300,72917
+5,17031010400,58438
+6,17031010501,52747
+7,17031010502,47222
+8,17031010503,46964
+9,17031010600,76838
+10,17031010701,74038
+11,17031010702,48989
+12,17031020100,61300
+13,17031020200,91402
+14,17031020301,74338
+15,17031020302,109202
+16,17031020400,79773
+17,17031020500,50927
+18,17031020601,40352
+19,17031020602,53152
+20,17031020701,106691
+21,17031020702,50466
+22,17031020801,62757
+23,17031020802,44697
+24,17031020901,47644
+25,17031020902,39728
+26,17031030101,57627
+27,17031030102,77500
+28,17031030103,98083
+29,17031030104,65625
+30,17031030200,114474
+31,17031030300,50750
+32,17031030400,66731
+33,17031030500,111466
+34,17031030601,31722
+35,17031030603,44022
+36,17031030604,73009
+37,17031030701,62857
+38,17031030702,101250
+39,17031030703,74479
+40,17031030706,67893
+41,17031030800,141652
+42,17031030900,159800
+43,17031031000,107629
+44,17031031100,106941
+45,17031031200,45547
+46,17031031300,53750
+47,17031031400,119167
+48,17031031501,41417
+49,17031031502,36473
+50,17031031700,124625
+51,17031031800,138750
+52,17031031900,141600
+53,17031032100,127901
+54,17031040100,138889
+55,17031040201,93750
+56,17031040202,54868
+57,17031040300,92656
+58,17031040401,126845
+59,17031040402,137000
+60,17031040600,106375
+61,17031040700,130281
+62,17031040800,109688
+63,17031040900,180278
+64,17031050100,158750
+65,17031050200,159821
+66,17031050300,116806
+67,17031050500,205417
+68,17031050600,216477
+69,17031050700,171429
+70,17031050800,196250
+71,17031050900,137083
+72,17031051000,160577
+73,17031051100,175508
+74,17031051200,182031
+75,17031051300,200179
+76,17031051400,162143
+77,17031060100,138333
+78,17031060200,152946
+79,17031060300,172150
+80,17031060400,197679
+81,17031060500,171750
+82,17031060800,124417
+83,17031060900,88770
+84,17031061000,151875
+85,17031061100,170893
+86,17031061200,215455
+87,17031061500,165729
+88,17031061800,120438
+89,17031061901,118313
+90,17031061902,125950
+91,17031062000,160133
+92,17031062100,182969
+93,17031062200,173250
+94,17031062300,250000
+95,17031062400,201250
+96,17031062500,201964
+97,17031062600,250000
+98,17031062700,237500
+99,17031062800,250000
+100,17031062900,210089
+101,17031063000,183438
+102,17031063100,165278
+103,17031063200,174402
+104,17031063301,131971
+105,17031063302,133618
+106,17031063303,155179
+107,17031063400,201949
+108,17031070101,127076
+109,17031070102,250000
+110,17031070103,71473
+111,17031070200,163182
+112,17031070300,221023
+113,17031070400,250000
+114,17031070500,250000
+115,17031070600,184196
+116,17031070700,195724
+117,17031071000,250000
+118,17031071100,233947
+119,17031071200,117188
+120,17031071300,205515
+121,17031071400,196053
+122,17031071500,185179
+123,17031071600,201875
+124,17031071700,203438
+125,17031071800,183125
+126,17031080100,250000
+127,17031080201,151856
+128,17031080202,173220
+129,17031080300,200771
+130,17031080400,38824
+131,17031081000,143750
+132,17031081100,140982
+133,17031081201,250000
+134,17031081202,215813
+135,17031081300,157708
+136,17031081401,250000
+137,17031081402,228750
+138,17031081403,184697
+139,17031081500,211600
+140,17031081600,180208
+141,17031081700,145526
+142,17031081800,246467
+143,17031081900,153125
+144,17031090100,130250
+145,17031090200,157083
+146,17031090300,133750
+147,17031100100,100639
+148,17031100200,111138
+149,17031100300,116406
+150,17031100400,113553
+151,17031100500,113080
+152,17031100600,87061
+153,17031100700,101806
+154,17031110100,100392
+155,17031110200,107267
+156,17031110300,93517
+157,17031110400,72437
+158,17031110501,94836
+159,17031110502,92868
+160,17031120100,166719
+161,17031120200,153472
+162,17031120300,155640
+163,17031120400,113359
+164,17031130100,83875
+165,17031130200,103125
+166,17031130300,63571
+167,17031140100,54129
+168,17031140200,45969
+169,17031140301,56250
+170,17031140302,93141
+171,17031140400,94344
+172,17031140500,70875
+173,17031140601,51053
+174,17031140602,61875
+175,17031140701,68000
+176,17031140702,63219
+177,17031140800,98056
+178,17031150200,85284
+179,17031150300,102725
+180,17031150401,80337
+181,17031150402,99345
+182,17031150501,89250
+183,17031150502,76576
+184,17031150600,84507
+185,17031150700,85714
+186,17031150800,68320
+187,17031151001,81042
+188,17031151002,64741
+189,17031151100,63125
+190,17031151200,81410
+191,17031160100,79643
+192,17031160200,114453
+193,17031160300,76222
+194,17031160400,83598
+195,17031160501,59000
+196,17031160502,62607
+197,17031160601,82723
+198,17031160602,69594
+199,17031160700,84713
+200,17031160800,62584
+201,17031160900,107031
+202,17031161000,136750
+203,17031161100,150357
+204,17031161200,69896
+205,17031161300,57661
+206,17031170100,86146
+207,17031170200,73075
+208,17031170300,93281
+209,17031170400,78167
+210,17031170500,103542
+211,17031170600,84620
+212,17031170700,74141
+213,17031170800,68611
+214,17031170900,79000
+215,17031171000,95865
+216,17031171100,99293
+217,17031180100,76250
+218,17031190100,56597
+219,17031190200,66313
+220,17031190300,72593
+221,17031190401,67000
+222,17031190402,62825
+223,17031190601,53375
+224,17031190602,54179
+225,17031190701,49531
+226,17031190702,45625
+227,17031190800,59471
+228,17031190900,66786
+229,17031191000,60250
+230,17031191100,51590
+231,17031191200,46742
+232,17031191301,67604
+233,17031191302,55308
+234,17031200100,72857
+235,17031200200,56368
+236,17031200300,72667
+237,17031200401,46618
+238,17031200402,52188
+239,17031210100,95682
+240,17031210400,52639
+241,17031210501,46369
+242,17031210502,63512
+243,17031210601,78229
+244,17031210602,78684
+245,17031210700,74750
+246,17031210800,58929
+247,17031210900,88194
+248,17031220300,128417
+249,17031220400,125522
+250,17031220500,117609
+251,17031220601,98214
+252,17031220602,55833
+253,17031220701,72500
+254,17031220702,66174
+255,17031220901,48477
+256,17031220902,58636
+257,17031221000,51989
+258,17031221100,73600
+259,17031221200,120863
+260,17031221300,65625
+261,17031221400,138594
+262,17031221500,71439
+263,17031221600,188864
+264,17031222200,228125
+265,17031222500,74792
+266,17031222600,87188
+267,17031222700,74000
+268,17031222800,47031
+269,17031222900,55375
+270,17031230100,61250
+271,17031230200,61406
+272,17031230300,46250
+273,17031230400,54625
+274,17031230500,33672
+275,17031230600,42902
+276,17031230700,44798
+277,17031230800,59539
+278,17031230900,56667
+280,17031231200,36330
+281,17031231500,41722
+282,17031240200,199464
+283,17031240300,167083
+284,17031240500,209917
+285,17031240600,138333
+286,17031240700,96324
+287,17031240800,64531
+288,17031240900,43098
+289,17031241000,62011
+290,17031241100,66667
+291,17031241200,163214
+292,17031241300,183750
+293,17031241400,189896
+294,17031241500,176250
+295,17031241600,119500
+296,17031242000,131853
+297,17031242100,156607
+298,17031242200,158906
+299,17031242300,128833
+300,17031242400,151625
+301,17031242500,89176
+302,17031242600,60735
+303,17031242700,51146
+304,17031242800,103333
+305,17031242900,135156
+306,17031243000,103906
+307,17031243100,145625
+308,17031243200,173966
+309,17031243300,120078
+310,17031243400,104750
+311,17031243500,182543
+312,17031250200,65329
+313,17031250300,35278
+314,17031250400,49647
+315,17031250500,115074
+316,17031250600,62188
+317,17031250700,44929
+318,17031250800,45492
+319,17031251000,29276
+320,17031251100,30805
+321,17031251200,51419
+322,17031251300,37067
+323,17031251400,57952
+324,17031251500,37679
+325,17031251600,26781
+326,17031251700,57898
+327,17031251800,27091
+328,17031251900,21463
+329,17031252000,26222
+330,17031252101,28421
+331,17031252102,49542
+332,17031252201,38984
+333,17031252202,28300
+334,17031260100,31250
+335,17031260200,38056
+336,17031260300,37784
+337,17031260400,0
+338,17031260500,32109
+339,17031260600,28315
+340,17031260700,28875
+341,17031260800,24153
+342,17031260900,42208
+343,17031261000,35058
+344,17031270500,32083
+345,17031271200,33565
+346,17031271300,25517
+347,17031271400,25391
+348,17031271500,46917
+349,17031271800,20104
+350,17031280100,195677
+351,17031280400,26625
+352,17031280800,31429
+353,17031280900,17458
+354,17031281900,142569
+355,17031282700,59009
+356,17031282800,76488
+357,17031283100,53967
+358,17031283200,92500
+359,17031283800,125833
+360,17031290900,30056
+361,17031291200,17857
+362,17031291600,50347
+363,17031292200,38212
+364,17031292400,41875
+365,17031292500,44732
+366,17031300500,36184
+367,17031300600,44931
+368,17031300700,37730
+369,17031300800,30313
+370,17031300900,31204
+371,17031301100,37946
+372,17031301200,33866
+373,17031301600,29385
+374,17031301701,39076
+375,17031301702,44706
+376,17031301801,37816
+377,17031301802,35846
+378,17031301803,40844
+379,17031310200,74236
+380,17031310300,53500
+381,17031310400,97083
+382,17031310500,35365
+383,17031310600,51597
+384,17031310700,58371
+385,17031310800,62861
+386,17031310900,36996
+387,17031320100,181226
+388,17031320400,250000
+389,17031320600,178881
+390,17031330100,180539
+391,17031330200,159583
+392,17031340300,44779
+393,17031340400,53173
+394,17031340500,24395
+395,17031340600,16114
+396,17031350100,79125
+397,17031350400,19444
+398,17031351000,0
+399,17031351100,11457
+400,17031351400,16622
+401,17031351500,13707
+402,17031360200,36802
+403,17031380100,49940
+404,17031380200,0
+405,17031380500,22019
+406,17031380700,45495
+407,17031381200,87250
+408,17031381400,26321
+409,17031381500,0
+410,17031381700,0
+411,17031381800,44286
+412,17031381900,54308
+413,17031390100,104563
+414,17031390200,102031
+415,17031390300,24405
+416,17031390400,68750
+417,17031390500,82333
+418,17031390600,121250
+419,17031390700,117125
+420,17031400300,34500
+421,17031400400,35881
+422,17031400500,22419
+423,17031400800,23134
+424,17031410100,101289
+425,17031410200,78417
+426,17031410500,128307
+427,17031410600,83125
+428,17031410700,100927
+429,17031410800,77788
+430,17031410900,115179
+431,17031411000,103438
+432,17031411100,188819
+433,17031411200,200000
+434,17031420100,24107
+435,17031420200,41618
+436,17031420300,51447
+437,17031420400,27000
+438,17031420500,40063
+439,17031420600,27813
+440,17031420700,25024
+441,17031420800,46389
+442,17031421200,57778
+443,17031430101,31926
+444,17031430102,38629
+445,17031430200,33085
+446,17031430300,16935
+447,17031430400,44386
+448,17031430500,19532
+449,17031430600,46806
+450,17031430700,0
+451,17031430800,72637
+452,17031430900,56513
+453,17031431200,69500
+454,17031431301,38125
+455,17031431302,34141
+456,17031431400,30774
+457,17031440101,21512
+458,17031440102,41334
+459,17031440201,40269
+460,17031440202,49861
+461,17031440300,67159
+462,17031440600,68606
+463,17031440700,61000
+464,17031440800,26875
+465,17031440900,65233
+466,17031450300,59938
+467,17031460100,39659
+468,17031460200,32266
+469,17031460301,38846
+470,17031460302,29980
+471,17031460400,58704
+472,17031460500,78553
+473,17031460600,39837
+474,17031460700,25625
+475,17031461000,44732
+476,17031470100,59732
+477,17031480100,78281
+478,17031480200,56250
+479,17031480300,66071
+480,17031480400,71438
+481,17031480500,50313
+482,17031490300,70000
+483,17031490400,76111
+484,17031490500,59922
+485,17031490600,43073
+486,17031490700,56250
+487,17031490800,45385
+488,17031490901,45819
+489,17031490902,56296
+490,17031491000,58889
+491,17031491100,63301
+492,17031491200,55000
+493,17031491300,35417
+494,17031491400,35284
+495,17031500100,67044
+496,17031500200,35833
+497,17031500300,45903
+498,17031510100,43355
+499,17031510200,52188
+500,17031510300,30741
+501,17031520100,53427
+502,17031520200,35000
+503,17031520300,51667
+504,17031520400,54093
+505,17031520500,65972
+506,17031520600,57917
+507,17031530100,48958
+508,17031530200,51563
+509,17031530300,52045
+510,17031530400,70556
+511,17031530501,51086
+512,17031530502,57667
+513,17031530503,55066
+514,17031530600,42976
+515,17031540101,22452
+516,17031540102,21125
+517,17031550100,74219
+518,17031550200,79464
+519,17031560100,72188
+520,17031560200,63214
+521,17031560300,54119
+522,17031560400,56202
+523,17031560700,69631
+524,17031560800,86000
+525,17031560900,107159
+526,17031561000,129617
+527,17031561100,101985
+528,17031570100,54514
+529,17031570200,74659
+530,17031570300,52786
+531,17031570400,63000
+532,17031570500,52986
+533,17031580100,46500
+534,17031580200,36944
+535,17031580300,54130
+536,17031580400,51216
+537,17031580501,38989
+538,17031580502,42516
+539,17031580600,61386
+540,17031580700,44802
+541,17031580800,47841
+542,17031590500,76923
+543,17031590600,51176
+544,17031590700,51818
+545,17031600400,0
+546,17031600600,37909
+547,17031600700,44911
+548,17031600900,60750
+549,17031610300,42466
+550,17031610400,42721
+551,17031610800,63250
+552,17031611000,29750
+553,17031611100,31250
+554,17031611200,27773
+555,17031611300,37917
+556,17031611400,43299
+557,17031611500,35884
+558,17031611600,37583
+559,17031611700,29083
+560,17031611800,58092
+561,17031611900,25658
+562,17031612000,57798
+563,17031612100,38958
+564,17031620100,64438
+565,17031620200,75833
+566,17031620300,63587
+567,17031620400,78656
+568,17031630100,37625
+569,17031630200,52188
+570,17031630300,52286
+571,17031630400,36221
+572,17031630500,48859
+573,17031630800,53273
+574,17031630900,46113
+575,17031640100,55750
+576,17031640300,72284
+577,17031640400,69857
+578,17031640500,92975
+579,17031640600,54252
+580,17031640700,62333
+581,17031640800,62222
+582,17031650100,42123
+583,17031650200,60868
+584,17031650301,64750
+585,17031650302,49680
+586,17031650400,57022
+587,17031650500,74718
+588,17031660301,31146
+589,17031660302,36713
+590,17031660400,60069
+591,17031660500,45139
+592,17031660600,31205
+593,17031660700,27000
+594,17031660800,37854
+595,17031660900,36991
+596,17031661000,43235
+597,17031661100,64419
+598,17031670100,36587
+599,17031670200,35833
+600,17031670300,33750
+601,17031670400,39000
+602,17031670500,32917
+603,17031670600,48021
+604,17031670700,34063
+605,17031670800,27917
+606,17031670900,34271
+607,17031671100,36042
+608,17031671200,35208
+609,17031671300,32614
+610,17031671400,42321
+611,17031671500,32163
+612,17031671600,30242
+613,17031671800,38698
+614,17031671900,50750
+615,17031672000,37354
+616,17031680500,23864
+617,17031680600,21250
+618,17031680900,23808
+619,17031681000,24604
+620,17031681100,30330
+621,17031681200,24275
+622,17031681300,30156
+623,17031681400,40156
+624,17031690300,19167
+625,17031690400,29207
+626,17031690500,33833
+627,17031690900,61125
+628,17031691000,71016
+629,17031691100,25729
+630,17031691200,31250
+631,17031691300,46250
+632,17031691400,38056
+633,17031691500,31081
+634,17031700100,73523
+635,17031700200,74915
+636,17031700301,75737
+637,17031700302,80195
+638,17031700401,79722
+639,17031700402,65871
+640,17031700501,73688
+641,17031700502,121182
+642,17031710100,22303
+643,17031710200,33995
+644,17031710300,36985
+645,17031710400,63042
+646,17031710500,31804
+647,17031710600,38269
+648,17031710700,40882
+649,17031710800,33325
+650,17031710900,37153
+651,17031711000,38664
+652,17031711100,49750
+653,17031711200,70224
+654,17031711300,67273
+655,17031711400,46083
+656,17031711500,44583
+657,17031720100,172935
+658,17031720200,93318
+659,17031720300,123715
+660,17031720400,140804
+661,17031720500,156992
+662,17031720600,131250
+663,17031720700,107292
+664,17031730100,69643
+665,17031730201,52344
+666,17031730202,71364
+667,17031730300,57188
+668,17031730400,98207
+669,17031730500,61485
+670,17031730600,48523
+671,17031730700,53777
+672,17031740100,105577
+673,17031740200,123625
+674,17031740300,140000
+675,17031740400,110234
+676,17031750100,46094
+677,17031750200,112083
+678,17031750300,110536
+679,17031750400,119803
+680,17031750500,68327
+681,17031750600,56023
+682,17031760801,75553
+683,17031760802,90382
+684,17031760803,52658
+685,17031770201,92216
+686,17031770202,90125
+687,17031770300,91319
+688,17031770400,91964
+689,17031770500,41088
+690,17031770601,108357
+691,17031770602,74500
+692,17031770700,80921
+693,17031770800,62585
+694,17031770901,95592
+695,17031770902,81974
+696,17031800100,250000
+697,17031800200,250000
+698,17031800300,250000
+699,17031800400,250000
+700,17031800500,250000
+701,17031800600,250000
+702,17031800700,233750
+703,17031800800,139907
+704,17031800900,129006
+705,17031801000,166250
+706,17031801100,199306
+707,17031801200,250000
+708,17031801300,250000
+709,17031801400,158250
+710,17031801500,135739
+711,17031801601,150000
+712,17031801603,51319
+713,17031801605,157458
+714,17031801606,161544
+715,17031801607,120405
+716,17031801608,140825
+717,17031801701,197417
+718,17031801702,146375
+719,17031801800,189219
+720,17031801901,126576
+721,17031801902,194205
+722,17031802002,142008
+723,17031802003,111375
+724,17031802004,52095
+725,17031802100,182868
+726,17031802200,166691
+727,17031802300,189527
+728,17031802402,71959
+729,17031802403,100375
+730,17031802404,64922
+731,17031802503,96938
+732,17031802504,89261
+733,17031802505,59398
+734,17031802506,97344
+735,17031802605,116940
+736,17031802607,122639
+737,17031802608,87321
+738,17031802609,58510
+739,17031802610,104511
+740,17031802701,106875
+741,17031802702,116831
+742,17031802801,132566
+743,17031802802,120760
+744,17031802900,157262
+745,17031803005,114250
+746,17031803007,116979
+747,17031803008,130197
+748,17031803010,129118
+749,17031803012,82423
+750,17031803013,125221
+751,17031803014,79485
+752,17031803015,105500
+753,17031803016,105882
+754,17031803017,116974
+755,17031803100,147188
+756,17031803200,131174
+757,17031803300,132390
+758,17031803400,141082
+759,17031803500,142000
+760,17031803603,179949
+761,17031803604,94375
+762,17031803605,102100
+763,17031803606,53662
+764,17031803607,125673
+765,17031803608,89667
+766,17031803610,98018
+767,17031803611,68984
+768,17031803612,53803
+769,17031803701,144615
+770,17031803702,135966
+771,17031803800,122865
+772,17031803901,93967
+773,17031803902,97602
+774,17031804000,101129
+775,17031804102,160625
+776,17031804104,128368
+777,17031804105,139760
+778,17031804106,129375
+779,17031804108,96176
+780,17031804109,145750
+781,17031804201,160667
+782,17031804202,161221
+783,17031804305,85139
+784,17031804306,71025
+785,17031804308,80030
+786,17031804309,93750
+787,17031804310,102447
+788,17031804311,117218
+789,17031804403,91690
+790,17031804404,86563
+791,17031804405,61719
+792,17031804406,79357
+793,17031804505,72772
+794,17031804506,123145
+795,17031804507,128664
+796,17031804508,71350
+797,17031804509,78771
+798,17031804510,66406
+799,17031804511,59934
+800,17031804603,86982
+801,17031804606,135385
+802,17031804607,104330
+803,17031804608,119118
+804,17031804609,113750
+805,17031804610,80900
+806,17031804611,115353
+807,17031804701,84748
+808,17031804705,82059
+809,17031804706,115625
+810,17031804709,77750
+811,17031804710,110282
+812,17031804711,77768
+813,17031804712,106458
+814,17031804713,95532
+815,17031804714,86109
+816,17031804715,53321
+817,17031804716,101771
+818,17031804803,83603
+819,17031804804,84861
+820,17031804805,103269
+821,17031804806,81500
+822,17031804807,99534
+823,17031804808,121429
+824,17031804809,99556
+825,17031804810,92891
+826,17031804901,122267
+827,17031804902,108323
+828,17031805001,135602
+829,17031805002,59621
+830,17031805105,65117
+831,17031805106,98636
+832,17031805107,70139
+833,17031805108,74943
+834,17031805109,97165
+835,17031805110,93447
+836,17031805111,64838
+837,17031805112,79444
+838,17031805201,102375
+839,17031805202,118409
+840,17031805301,85104
+841,17031805302,96685
+842,17031805401,99609
+843,17031805402,100625
+844,17031805501,147279
+845,17031805502,198406
+846,17031805600,159333
+847,17031805701,157813
+848,17031805702,139643
+849,17031805801,138281
+850,17031805802,136071
+851,17031805901,103077
+852,17031805902,142045
+853,17031806001,61134
+854,17031806002,56908
+855,17031806003,82309
+856,17031806004,58352
+857,17031806102,113828
+858,17031806103,107230
+859,17031806104,57328
+860,17031806201,54167
+861,17031806202,69575
+862,17031806300,108083
+863,17031806400,111964
+864,17031806501,59821
+865,17031806502,88507
+866,17031806600,90865
+867,17031806700,144300
+868,17031806801,91364
+869,17031806802,69167
+870,17031806900,100481
+871,17031807000,68778
+872,17031807100,126350
+873,17031807200,102275
+874,17031807300,72273
+875,17031807400,64005
+876,17031807500,119020
+877,17031807600,72011
+878,17031807700,85056
+879,17031807800,125500
+880,17031807900,156125
+881,17031808001,108750
+882,17031808002,105516
+883,17031808100,70726
+884,17031808200,80577
+885,17031808301,98367
+886,17031808302,107083
+887,17031808400,101412
+888,17031808500,100725
+889,17031808600,203333
+890,17031808702,175000
+891,17031808800,226806
+892,17031808900,195625
+893,17031809000,209531
+894,17031809100,165417
+895,17031809200,60042
+896,17031809300,184083
+897,17031809400,128897
+898,17031809500,117955
+899,17031809600,95563
+900,17031809700,110809
+901,17031809800,183750
+902,17031809900,217458
+903,17031810000,148583
+904,17031810100,84024
+905,17031810200,72628
+906,17031810301,96058
+907,17031810302,116434
+908,17031810400,138507
+909,17031810501,99306
+910,17031810502,73257
+911,17031810600,69295
+912,17031810701,64663
+913,17031810702,83894
+914,17031810800,82911
+915,17031810900,65758
+916,17031811000,119519
+917,17031811100,66053
+918,17031811200,84018
+919,17031811301,79091
+920,17031811302,43720
+921,17031811401,80000
+922,17031811402,70759
+923,17031811500,86048
+924,17031811600,56143
+925,17031811701,69355
+926,17031811702,60179
+927,17031811800,80052
+928,17031811900,210875
+929,17031812000,183098
+930,17031812100,128750
+931,17031812200,238688
+932,17031812301,99750
+933,17031812302,161219
+934,17031812400,234167
+935,17031812500,130125
+936,17031812600,108056
+937,17031812700,119444
+938,17031812801,101350
+939,17031812802,103239
+940,17031812900,155160
+941,17031813000,127330
+942,17031813100,114653
+943,17031813200,161268
+944,17031813301,39750
+945,17031813302,39508
+946,17031813400,49453
+947,17031813500,62281
+948,17031813600,56919
+949,17031813701,49453
+950,17031813702,52055
+951,17031813801,50417
+952,17031813802,43346
+953,17031813900,44884
+954,17031814000,50642
+955,17031814100,45492
+956,17031814200,47321
+957,17031814300,55238
+958,17031814400,54489
+959,17031814500,68328
+960,17031814600,65000
+961,17031814700,81698
+962,17031814800,75668
+963,17031814900,69112
+964,17031815000,69458
+965,17031815100,83665
+966,17031815200,59400
+967,17031815300,85828
+968,17031815400,75833
+969,17031815500,74491
+970,17031815600,77941
+971,17031815701,137981
+972,17031815702,122344
+973,17031815800,115156
+974,17031815900,92688
+975,17031816000,120833
+976,17031816100,89674
+977,17031816200,76607
+978,17031816300,64031
+979,17031816401,50081
+980,17031816402,55817
+981,17031816500,43188
+982,17031816600,60192
+983,17031816700,57664
+984,17031816800,72476
+985,17031816900,70370
+986,17031817000,62303
+987,17031817101,54261
+988,17031817102,76105
+989,17031817200,60114
+990,17031817300,48977
+991,17031817400,63380
+992,17031817500,56838
+993,17031817600,53841
+994,17031817700,78750
+995,17031817900,68150
+996,17031818000,72730
+997,17031818100,116225
+998,17031818200,97740
+999,17031818300,71182
+1000,17031818401,92500
+1001,17031818402,97574
+1002,17031818500,106071
+1003,17031818600,109315
+1004,17031818700,116667
+1005,17031818800,110675
+1006,17031818900,116750
+1007,17031819000,169915
+1008,17031819100,71652
+1009,17031819200,71717
+1010,17031819300,83889
+1011,17031819400,84250
+1012,17031819500,128482
+1013,17031819600,168864
+1014,17031819700,186071
+1015,17031819801,188317
+1016,17031819802,193036
+1017,17031819900,200438
+1018,17031820000,232375
+1019,17031820101,142692
+1020,17031820103,87891
+1021,17031820104,97692
+1022,17031820201,147853
+1023,17031820202,62472
+1024,17031820300,57074
+1025,17031820400,42519
+1026,17031820501,72128
+1027,17031820502,70485
+1028,17031820603,76417
+1029,17031820604,45417
+1030,17031820605,49899
+1031,17031820606,75481
+1032,17031820700,77092
+1033,17031820800,74423
+1034,17031820901,67571
+1035,17031820902,92430
+1036,17031821001,70268
+1037,17031821002,67303
+1038,17031821101,71304
+1039,17031821102,60536
+1040,17031821200,66952
+1041,17031821300,49425
+1042,17031821401,48981
+1043,17031821402,76290
+1044,17031821500,41027
+1045,17031821600,79333
+1046,17031821700,98125
+1047,17031821800,90863
+1048,17031821900,98869
+1049,17031822000,60580
+1050,17031822101,81518
+1051,17031822102,105833
+1052,17031822200,97108
+1053,17031822301,75938
+1054,17031822302,74960
+1055,17031822400,47730
+1056,17031822500,76642
+1057,17031822601,101740
+1058,17031822602,77003
+1059,17031822701,78571
+1060,17031822702,67037
+1061,17031822801,106731
+1062,17031822802,84444
+1063,17031822900,75586
+1064,17031823001,48409
+1065,17031823002,80673
+1066,17031823101,57283
+1067,17031823102,83092
+1068,17031823200,78268
+1069,17031823302,65373
+1070,17031823303,80104
+1071,17031823304,83300
+1072,17031823400,63750
+1073,17031823500,63487
+1074,17031823602,80852
+1075,17031823603,44875
+1076,17031823604,102450
+1077,17031823605,96121
+1078,17031823702,70096
+1079,17031823703,62511
+1080,17031823704,96750
+1081,17031823705,63508
+1082,17031823801,131042
+1083,17031823803,93125
+1084,17031823805,77188
+1085,17031823806,56172
+1086,17031823901,117891
+1087,17031823903,108274
+1088,17031823904,114464
+1089,17031824003,103023
+1090,17031824004,118707
+1091,17031824005,139240
+1092,17031824006,143466
+1093,17031824105,118650
+1094,17031824106,104195
+1095,17031824107,93466
+1096,17031824108,99615
+1097,17031824113,107391
+1098,17031824114,116008
+1099,17031824115,84342
+1100,17031824116,80100
+1101,17031824117,122324
+1102,17031824119,129539
+1103,17031824120,146682
+1104,17031824121,87500
+1105,17031824122,116477
+1106,17031824123,90341
+1107,17031824300,54196
+1108,17031824400,64605
+1109,17031824503,91378
+1110,17031824505,84167
+1111,17031824506,81696
+1112,17031824507,74112
+1113,17031824601,83317
+1114,17031824602,83333
+1115,17031824701,78278
+1116,17031824702,78882
+1117,17031824800,49306
+1118,17031824900,42198
+1119,17031825000,75350
+1120,17031825200,82500
+1121,17031825302,77389
+1122,17031825303,78261
+1123,17031825304,88125
+1124,17031825400,89464
+1125,17031825501,69643
+1126,17031825503,60811
+1127,17031825504,60893
+1128,17031825505,67692
+1129,17031825600,54426
+1130,17031825700,53125
+1131,17031825801,55927
+1132,17031825802,46986
+1133,17031825803,70345
+1134,17031825900,52120
+1135,17031826000,47424
+1136,17031826100,53652
+1137,17031826201,76359
+1138,17031826202,40526
+1139,17031826301,57143
+1140,17031826303,52726
+1141,17031826304,33882
+1142,17031826401,65496
+1143,17031826402,57703
+1144,17031826500,46463
+1145,17031826600,44219
+1146,17031826700,42670
+1147,17031826800,47883
+1148,17031826901,30125
+1149,17031826902,33382
+1150,17031827000,39434
+1151,17031827100,47219
+1152,17031827200,68548
+1153,17031827300,33125
+1154,17031827400,46382
+1155,17031827500,50347
+1156,17031827600,41319
+1157,17031827700,54942
+1158,17031827801,63936
+1159,17031827802,87906
+1160,17031827804,83158
+1161,17031827805,79950
+1162,17031827901,103906
+1163,17031827902,55658
+1164,17031828000,59425
+1165,17031828100,53494
+1166,17031828201,70119
+1167,17031828202,100778
+1168,17031828300,78565
+1169,17031828401,87669
+1170,17031828402,74009
+1171,17031828503,42065
+1172,17031828504,50129
+1173,17031828505,75842
+1174,17031828506,71299
+1175,17031828601,98611
+1176,17031828602,101891
+1177,17031828701,86250
+1178,17031828702,55217
+1179,17031828801,96981
+1180,17031828802,79853
+1181,17031828900,57835
+1182,17031829000,22632
+1183,17031829100,45580
+1184,17031829200,52256
+1185,17031829301,96769
+1186,17031829302,43636
+1187,17031829401,31339
+1188,17031829402,53551
+1189,17031829500,44375
+1190,17031829600,88657
+1191,17031829700,49306
+1192,17031829800,115074
+1193,17031829901,96028
+1194,17031829902,81768
+1195,17031830001,55313
+1196,17031830003,117303
+1197,17031830004,111250
+1198,17031830005,121339
+1199,17031830006,68828
+1200,17031830007,60325
+1201,17031830008,96184
+1202,17031830100,80197
+1203,17031830201,81848
+1204,17031830202,89693
+1205,17031830300,53237
+1206,17031830400,60970
+1207,17031830500,42946
+1208,17031830600,45000
+1209,17031830700,80400
+1210,17031830800,119894
+1211,17031830900,106724
+1212,17031831000,210313
+1213,17031831100,62786
+1214,17031831200,41296
+1215,17031831300,53854
+1216,17031831400,39231
+1217,17031831500,60938
+1218,17031831600,61939
+1219,17031831700,68056
+1220,17031831800,66568
+1221,17031831900,229318
+1222,17031832000,228125
+1223,17031832100,130063
+1224,17031832200,209205
+1225,17031832300,158750
+1226,17031832400,126750
+1227,17031832500,219048
+1228,17031832600,246875
+1229,17031832900,162813
+1230,17031833000,210000
+1231,17031833100,195787
+1232,17031833300,154167
+1233,17031833900,33250
+1234,17031834000,46250
+1235,17031834200,77500
+1236,17031834300,75847
+1237,17031834400,74663
+1238,17031834500,41146
+1239,17031834600,33636
+1240,17031834700,28661
+1241,17031834800,38750
+1242,17031834900,29750
+1243,17031835000,33922
+1244,17031835100,44323
+1245,17031835200,70962
+1246,17031835500,29135
+1247,17031835600,39417
+1248,17031835700,49519
+1249,17031835800,31875
+1250,17031835900,52386
+1251,17031836000,95109
+1252,17031836100,26360
+1253,17031836200,221042
+1254,17031836300,86131
+1255,17031836400,45449
+1256,17031836500,45530
+1257,17031836600,56594
+1258,17031836700,38821
+1259,17031836800,19079
+1260,17031836900,28971
+1261,17031837000,39175
+1262,17031837100,32298
+1263,17031837300,35417
+1264,17031837400,36979
+1265,17031837800,58529
+1266,17031838000,63125
+1267,17031838100,120833
+1268,17031838200,105769
+1269,17031838300,147708
+1270,17031838600,17063
+1271,17031838700,31601
+1272,17031838800,29868
+1273,17031839000,129196
+1274,17031839100,159538
+1275,17031839200,53393
+1276,17031839500,158026
+1277,17031839600,44760
+1278,17031839700,91042
+1279,17031839800,68750
+1280,17031839900,76806
+1281,17031840000,106029
+1282,17031840100,53965
+1283,17031840200,77083
+1284,17031840300,53885
+1285,17031840400,61845
+1286,17031840700,45303
+1287,17031840800,35117
+1288,17031841000,112426
+1289,17031841100,38922
+1290,17031841200,45450
+1291,17031841300,53017
+1292,17031841400,56167
+1293,17031841500,32539
+1294,17031841600,67292
+1295,17031841700,27109
+1296,17031841800,43542
+1297,17031841900,129934
+1298,17031842000,171141
+1299,17031842100,38119
+1300,17031842200,105060
+1301,17031842300,148125
+1302,17031842400,53997
+1303,17031842500,0
+1304,17031842600,75724
+1305,17031842800,29681
+1306,17031842900,26420
+1307,17031843000,27431
+1308,17031843100,32098
+1309,17031843200,51917
+1310,17031843300,73092
+1311,17031843400,33776
+1312,17031843500,28750
+1313,17031843600,67609
+1314,17031843700,194375
+1315,17031843800,41250
+1316,17031843900,50104
+1317,17031980000,0
+1318,17031980100,0
+1319,17031990000,0
